@@ -87,6 +87,24 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/images\/_notes\/dwsync.xml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/_notes\/dwsync.xml",
+		"oF": 0
+		},
+	"\/images\/home-section-180716-bharucha-spotlight.jpg": {
+		"ft": 16384,
+		"iS": 147791,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/home-section-180716-bharucha-spotlight.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"\/images\/home-section-academic-0007_16_02_KR_0122.jpg": {
 		"ft": 16384,
 		"iS": 134091,
@@ -98,12 +116,34 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/images\/home-section-athletics.jpg": {
+		"ft": 16384,
+		"iS": 196358,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/home-section-athletics.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"\/images\/home-slideshow-academics-14_Academics.jpg": {
 		"ft": 16384,
 		"iS": 74367,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/home-slideshow-academics-14_Academics.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/home-slideshow-arts.jpg": {
+		"ft": 16384,
+		"iS": 218790,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/home-slideshow-arts.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -126,6 +166,28 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/home-slideshow-campus-life_26A6688.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/home-slideshow-our-campus.jpg": {
+		"ft": 16384,
+		"iS": 118941,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/home-slideshow-our-campus.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/home-slideshow-Sunset-Lake-summer-13-TT_0646.jpg": {
+		"ft": 16384,
+		"iS": 118941,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/home-slideshow-Sunset-Lake-summer-13-TT_0646.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,

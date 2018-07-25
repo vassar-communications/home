@@ -1,4 +1,8 @@
 .Module__fullWidthFacts {
+    .Module__listItem {
+        margin-bottom: .25em;
+        padding-bottom: 0;
+    }
 	.Module__subList {
 		text-align: center;
 		.Module__title {
@@ -70,7 +74,18 @@
 	background-size: cover;
 	color: #fff;
     .Module__listItem {
-        background-color: #00000096;
+        background-color: rgba(0, 0, 0, 0.5);
+    }
+}
+.Module__fullWidthAlumnaei {
+	background: #675a46 url(../../../assets/images/home-section-180716-bharucha-spotlight.jpg) no-repeat top center;
+	background-size: cover;
+	color: #fff;
+    .Module__listItem {
+        background-color: rgba(0, 0, 0, 0.5);
+        margin-bottom: 0;
+        padding: 3% 3% 0;
+        margin-top: 40%;
     }
 }
 /* temporary until Ray adjusts Gamut */
@@ -228,6 +243,16 @@
     }
 }
 /* News */
+.u-ArticleNavGroup__navButton--archive,
+.Module__fullWidthFacts .moreLink {
+    text-align: center;
+    font: normal $fontWeightNormal 1.75em/1 $sans-serif-condensed;
+    text-transform: uppercase;
+    letter-spacing: .03em;
+}
+.Module__fullWidthFacts .moreLink {
+    font-size: 1.5em;
+}
 @media screen {
     .u-ArticleListItem__summary,
     .u-ArticleListItem__label {
@@ -257,6 +282,16 @@
     .u-ArticleNavGroup {
         width: 70%;
         margin: 0 auto;
+    }
+    .u-ArticleNavGroup__navButton--archive {
+        position: absolute;
+        left: 50%;
+        bottom: 0;
+        margin: 0 0 0 -1.39em;
+        padding: 0 0 .19em;
+        white-space: nowrap;
+        width: 2.79em;
+        float: none;
     }
 }
 @media all and (min-width: $tiny) {
@@ -309,34 +344,30 @@
     background-position-x: 0em;
     left: -.25em;
 }
-.u-ArticleNavGroup__navButton--archive {
-    position: absolute;
-    left: 50%;
-    bottom: 0;
-    margin: 0 0 0 -2em;
-    text-align: center;
-    font: normal $fontWeightNormal 1.75em/1 $sans-serif-condensed;
-    text-transform: uppercase;
-    letter-spacing: .03em;
-    padding: 0 .25em .19em;
-    background: $linkColor;
-    color: #fff;
-    border: 1px solid #fff;
-    white-space: nowrap;
-    width: 4em;
-    float: none;
+.u-ArticleNavGroup__navButton--archive,
+.Module__fullWidthFacts .moreLink {
+    background: none;
+    background-color: transparent;
+    color: $linkColor;
+    border-bottom: 2px solid $linkColor !important;
     &:visited {
-        background: $linkColor;
-        color: #fff;
+        background: none;
+        background-color: transparent;
+        color: $linkColor;
+        border-bottom: 2px solid $linkColor !important;
     }
     &:hover,
     &:focus {
-        background: $linkColorHoverFocus;
-        color: #fff;
+        background: none;
+        background-color: transparent;
+        color: $linkColorHoverFocus;
+        border-bottom: 2px solid $linkColorHoverFocus !important;
     }
     &:active {
-        background: $linkColorActive;
-        color: #fff;
+        background: none;
+        background-color: transparent;
+        color: $linkColorActive;
+        border-bottom: 2px solid $linkColorActive !important;
     }
 }
 .Module__fullWidthNews {
