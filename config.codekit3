@@ -37,13 +37,6 @@
 		"oAP": "\/config.php",
 		"oF": 0
 		},
-	"\/css\/_notes\/dwsync.xml": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/css\/_notes\/dwsync.xml",
-		"oF": 0
-		},
 	"\/css\/local-group.css": {
 		"aP": 1,
 		"bl": 0,
@@ -122,6 +115,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/home-section-academic-0007_16_02_KR_0122.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/home-section-admissions.jpg": {
+		"ft": 16384,
+		"iS": 46740,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/home-section-admissions.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -292,13 +296,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/sass\/_notes\/dwsync.xml",
-		"oF": 0
-		},
-	"\/sass\/Archive.zip": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/sass\/Archive.zip",
 		"oF": 0
 		},
 	"\/sass\/local-group.scss": {
