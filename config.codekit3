@@ -252,6 +252,13 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/nav.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/nav.html",
+		"oF": 0
+		},
 	"\/sass\/_config.scss": {
 		"aP": 0,
 		"bl": 0,

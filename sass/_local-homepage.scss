@@ -464,6 +464,9 @@
     }
 }
 .u-ArticleGroup.u-ArticleGroup--newsSlider {
+    .u-ArticleListItem__title {
+      @include link-colors($fontColor, $linkColorHoverFocus, $linkColorActive, $fontColor, $linkColorHoverFocus);
+    }
     .u-ArticleListItem__thumbnail {
         margin: 0 0 2% 0 !important;
         border: 1px solid rgba(116, 102, 97, 0.5);
@@ -513,4 +516,28 @@
             border-bottom: 2px solid $linkColorActive !important;
         }
     }
+}
+/*Temp Morgan Fixes
+.u-ArticleGroup--newsSlider .u-ArticleListItem__title {
+  color: #746661;
+}
+.u-NavSite__main {
+    position:absolute;
+}
+*/
+.Module__fullWidthFacts .Module__desc .moreLink, .Module__fullWidthFacts .Module__desc .moreLink:visited {
+  color: #882344;
+  border-bottom: 2px solid #882344 !important;
+}
+.Module__fullWidthFacts .Module__desc .moreLink:active {
+  color: #746661;
+  border-bottom: 2px solid #746661 !important;
+}
+.Module__fullWidthFacts .Module__desc .moreLink:hover, .Module__fullWidthFacts .Module__desc .moreLink:focus {
+  color: #c1b5b0;
+  border-bottom: 2px solid #c1b5b0 !important;  
+}
+.buttonContainer {
+   display: flex;
+   justify-content: center;
 }
