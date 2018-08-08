@@ -135,7 +135,7 @@
     }
 }
 .Module__fullWidthCampuslife {
-	background: #675a46 url(../../../assets/images/home-section-campuslife.jpg) no-repeat top center;
+	background: #675a46 url(../../../assets/images/home-section-campuslife.jpg) no-repeat center center;
 	background-size: cover;
 	color: #fff;
     .Module__listItem {
@@ -166,12 +166,24 @@
 	letter-spacing: .1em;
     &:after {
         content: ":";
-        margin: 0 .33em 0 0;
+        margin: 0 .25em 0 0;
+    }
+    .alumName {
+        margin: 0 0 0 .25em;
     }
 }
+.galleria--alumnaei-spotlight {
+    font-size: 88.9%;
+}
 .galleria-button-link,
-.button-link {
+.galleria-link {
     font: normal $fontWeightNormal .9em/1 $sans-serif !important;
+}
+.button-link {
+    font: normal $fontWeightNormal 1.5em/1 $sans-serif-condensed !important;
+    text-transform: uppercase;
+    letter-spacing: .03em;
+    padding: 0 .25em .19em;
 }
 .galleria-info-description,
 .galleria-counter {
@@ -233,9 +245,18 @@
             content: "";
             margin: 0;
         }
+        .alumName {
+            display: block;
+            font-size: 40%;
+            letter-spacing: 0.2em;
+            margin: 0;
+        }
     }
     .galleria-desc-container {
         display: block;
+    }
+    .galleria--alumnaei-spotlight .galleria-desc-container {
+        display: inline;
     }
     .galleria-button,
     .button {
@@ -247,6 +268,7 @@
         text-align: center;
     }
     .galleria-button-link,
+    .galleria-link,
     .button-link {
         font: normal $fontWeightNormal 1.75em/1 $sans-serif-condensed !important;
         text-transform: uppercase;
@@ -258,8 +280,13 @@
         padding: 0 .5em .19em;
     }
     .galleria-info-description,
-    .galleria-counter {
+    .galleria-counter,
+    .galleria-link {
         font: normal $fontWeightNormal 1em/1.2 $sans-serif !important;
+    }
+    .galleria-link {
+        padding: 0;
+        text-transform: none;
     }
 	.galleria-info {
 		bottom: 2em;
@@ -294,24 +321,7 @@
             }
         }
     }
-    .button-link {
-        background-color: $linkColor;
-        color: #fff !important;
-        border: 1px solid #fff;
-        &:visited {
-            background-color: $linkColor;
-            color: #fff !important;
-        }
-        &:hover,
-        &:focus {
-            background-color: $linkColorHoverFocus;
-            color: #fff !important;
-        }
-        &:active {
-            background-color: $linkColorActive;
-            color: #fff !important;
-        }       
-    }
+
 }
 .galleria-info-text {
     background-color: #000;
@@ -538,6 +548,25 @@
   border-bottom: 2px solid #c1b5b0 !important;  
 }
 .buttonContainer {
-   display: flex;
-   justify-content: center;
+    display: flex;
+    justify-content: center;
+    margin: 1em 0;
+}
+.button-link {
+    background-color: $linkColor;
+    color: #fff !important;
+    border: 1px solid #fff;
+    &:visited {
+        background-color: $linkColor;
+        color: #fff !important;
+    }
+    &:hover,
+    &:focus {
+        background-color: $linkColorHoverFocus;
+        color: #fff !important;
+    }
+    &:active {
+        background-color: $linkColorActive;
+        color: #fff !important;
+    }       
 }

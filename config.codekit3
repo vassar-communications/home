@@ -80,13 +80,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/images\/_notes\/dwsync.xml": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/images\/_notes\/dwsync.xml",
-		"oF": 0
-		},
 	"\/images\/brewer-fund-logo.png": {
 		"ft": 32768,
 		"iS": 19012,
@@ -96,6 +89,28 @@
 		"oIPL": 1,
 		"opt": 1,
 		"oT": 1,
+		"q": 100
+		},
+	"\/images\/galleria-news-arrows-hoverfocus.png": {
+		"ft": 32768,
+		"iS": 714,
+		"oA": 0,
+		"oAP": "\/images\/galleria-news-arrows-hoverfocus.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/global-footer-bg.jpg": {
+		"ft": 16384,
+		"iS": 232642,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/global-footer-bg.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/images\/home-section-180716-bharucha-spotlight.jpg": {
