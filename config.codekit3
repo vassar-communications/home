@@ -80,6 +80,13 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/images\/_notes\/dwsync.xml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/images\/_notes\/dwsync.xml",
+		"oF": 0
+		},
 	"\/images\/brewer-fund-logo.png": {
 		"ft": 32768,
 		"iS": 19012,
@@ -321,7 +328,7 @@
 		"oF": 0
 		},
 	"\/sass\/local-group.scss": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
