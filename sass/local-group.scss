@@ -472,9 +472,9 @@ a:active {
 h1 a:link, h2 a:link, h3 a:link, h4 a:link, h5 a:link, h6 a:link,
 .Module__headerLink:link,
 .Module--sidebar a:link,
-/* a.fn.org.url.u-VCard__fn.u-VCard__item.u-VCard__org.u-VCard__url,
-a.fn.org.url.u-VCard__fn.u-VCard__item.u-VCard__org.u-VCard__url:hover, */
-.u-VCard--site .u-VCard__item.u-VCard__url:hover,
+.u-VCard--site a.u-VCard__item.u-VCard__url,
+.u-VCard--site a.u-VCard__item.u-VCard__url:hover,
+.u-VCard--site .u-VCard__item.u-VCard__org:hover,
 .u-VCard--site .u-VCard__adr .u-VCard__item:hover,
 .u-ArticleNavGroup__navButton:link,
 .u-ArticleListItem__link:link,
