@@ -30,20 +30,6 @@
 		"oAP": "\/_notes\/dwsync.xml",
 		"oF": 0
 		},
-	"\/config.php": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/config.php",
-		"oF": 0
-		},
-	"\/css\/_notes\/dwsync.xml": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/css\/_notes\/dwsync.xml",
-		"oF": 0
-		},
 	"\/css\/local-group.css": {
 		"aP": 1,
 		"bl": 0,
@@ -54,34 +40,376 @@
 		"oF": 0,
 		"oS": 3
 		},
-	"\/images\/14_Academics.jpg": {
+	"\/design-files\/sections\/0007_16_02_KR_0122.jpg": {
 		"ft": 16384,
-		"iS": 1245834,
+		"iS": 3713290,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/images\/14_Academics.jpg",
+		"oAP": "\/design-files\/sections\/0007_16_02_KR_0122.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/images\/21_Athletics.jpg": {
+	"\/design-files\/sections\/0056_13_05_TT_1097.jpg": {
 		"ft": 16384,
-		"iS": 2033144,
+		"iS": 3193527,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/images\/21_Athletics.jpg",
+		"oAP": "\/design-files\/sections\/0056_13_05_TT_1097.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/images\/_26A6688.jpg": {
+	"\/design-files\/sections\/global-footer-bg.psd": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/design-files\/sections\/global-footer-bg.psd",
+		"oF": 0
+		},
+	"\/design-files\/sections\/home-section-admissions.jpg": {
 		"ft": 16384,
-		"iS": 1232520,
+		"iS": 254986,
 		"jF": 0,
-		"oA": 1,
-		"oAP": "\/images\/_26A6688.jpg",
+		"oA": 0,
+		"oAP": "\/design-files\/sections\/home-section-admissions.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/design-files\/sections\/outing-9.jpg": {
+		"ft": 16384,
+		"iS": 2891244,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/design-files\/sections\/outing-9.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/design-files\/slideshows\/17_Academics.jpg": {
+		"ft": 16384,
+		"iS": 2463692,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/design-files\/slideshows\/17_Academics.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/design-files\/slideshows\/24729250457_eb16cd5a5a_o.jpg": {
+		"ft": 16384,
+		"iS": 756694,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/design-files\/slideshows\/24729250457_eb16cd5a5a_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/design-files\/slideshows\/29_Academics.jpg": {
+		"ft": 16384,
+		"iS": 820826,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/design-files\/slideshows\/29_Academics.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/design-files\/slideshows\/6_Athletics.jpg": {
+		"ft": 16384,
+		"iS": 1239146,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/design-files\/slideshows\/6_Athletics.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/design-files\/slideshows\/galleria-news-arrows.psd": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/design-files\/slideshows\/galleria-news-arrows.psd",
+		"oF": 0
+		},
+	"\/design-files\/slideshows\/Sunset Lake summer 13 TT_0646.jpg": {
+		"ft": 16384,
+		"iS": 1669040,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/design-files\/slideshows\/Sunset Lake summer 13 TT_0646.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/design-files\/web-comps\/index.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/design-files\/web-comps\/index.html",
+		"oF": 0
+		},
+	"\/design-files\/web-comps\/index10.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/design-files\/web-comps\/index10.html",
+		"oF": 0
+		},
+	"\/design-files\/web-comps\/index11.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/design-files\/web-comps\/index11.html",
+		"oF": 0
+		},
+	"\/design-files\/web-comps\/index12-static.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/design-files\/web-comps\/index12-static.html",
+		"oF": 0
+		},
+	"\/design-files\/web-comps\/index12.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/design-files\/web-comps\/index12.html",
+		"oF": 0
+		},
+	"\/design-files\/web-comps\/index2.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/design-files\/web-comps\/index2.html",
+		"oF": 0
+		},
+	"\/design-files\/web-comps\/index3.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/design-files\/web-comps\/index3.html",
+		"oF": 0
+		},
+	"\/design-files\/web-comps\/index4.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/design-files\/web-comps\/index4.html",
+		"oF": 0
+		},
+	"\/design-files\/web-comps\/index5.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/design-files\/web-comps\/index5.html",
+		"oF": 0
+		},
+	"\/design-files\/web-comps\/index6.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/design-files\/web-comps\/index6.html",
+		"oF": 0
+		},
+	"\/design-files\/web-comps\/index7.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/design-files\/web-comps\/index7.html",
+		"oF": 0
+		},
+	"\/design-files\/web-comps\/index8.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/design-files\/web-comps\/index8.html",
+		"oF": 0
+		},
+	"\/design-files\/web-comps\/index9.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/design-files\/web-comps\/index9.html",
+		"oF": 0
+		},
+	"\/design-files\/web-comps\/vassar-homepage-00a.jpg": {
+		"ft": 16384,
+		"iS": 1490719,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/design-files\/web-comps\/vassar-homepage-00a.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/design-files\/web-comps\/vassar-homepage-00b.jpg": {
+		"ft": 16384,
+		"iS": 1287511,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/design-files\/web-comps\/vassar-homepage-00b.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/design-files\/web-comps\/vassar-homepage-00c.jpg": {
+		"ft": 16384,
+		"iS": 1479837,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/design-files\/web-comps\/vassar-homepage-00c.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/design-files\/web-comps\/vassar-homepage-00d.jpg": {
+		"ft": 16384,
+		"iS": 1230543,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/design-files\/web-comps\/vassar-homepage-00d.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/design-files\/web-comps\/vassar-homepage-00e.jpg": {
+		"ft": 16384,
+		"iS": 1368257,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/design-files\/web-comps\/vassar-homepage-00e.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/design-files\/web-comps\/vassar-homepage-00f.jpg": {
+		"ft": 16384,
+		"iS": 1187946,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/design-files\/web-comps\/vassar-homepage-00f.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/design-files\/web-comps\/vassar-homepage-00g.jpg": {
+		"ft": 16384,
+		"iS": 1112611,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/design-files\/web-comps\/vassar-homepage-00g.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/design-files\/web-comps\/vassar-homepage-00h.jpg": {
+		"ft": 16384,
+		"iS": 1098996,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/design-files\/web-comps\/vassar-homepage-00h.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/design-files\/web-comps\/vassar-homepage-00i.jpg": {
+		"ft": 16384,
+		"iS": 1436526,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/design-files\/web-comps\/vassar-homepage-00i.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/design-files\/web-comps\/vassar-homepage-00j.jpg": {
+		"ft": 16384,
+		"iS": 1208781,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/design-files\/web-comps\/vassar-homepage-00j.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/design-files\/web-comps\/vassar-homepage-00k.jpg": {
+		"ft": 16384,
+		"iS": 2525093,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/design-files\/web-comps\/vassar-homepage-00k.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/design-files\/web-comps\/vassar-homepage-00l.jpg": {
+		"ft": 16384,
+		"iS": 2692979,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/design-files\/web-comps\/vassar-homepage-00l.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/design-files\/web-comps\/vassar-homepage-2.ai": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/design-files\/web-comps\/vassar-homepage-2.ai",
+		"oF": 0
+		},
+	"\/design-files\/web-comps\/vassar-homepage-3.ai": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/design-files\/web-comps\/vassar-homepage-3.ai",
+		"oF": 0
+		},
+	"\/design-files\/web-comps\/vassar-homepage-slides.ai": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/design-files\/web-comps\/vassar-homepage-slides.ai",
+		"oF": 0
+		},
+	"\/design-files\/web-comps\/vassar-homepage.ai": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/design-files\/web-comps\/vassar-homepage.ai",
+		"oF": 0
+		},
+	"\/images\/-global-footer-bg.jpg": {
+		"ft": 16384,
+		"iS": 310013,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "\/images\/-global-footer-bg.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -94,28 +422,6 @@
 		"oAP": "\/images\/_notes\/dwsync.xml",
 		"oF": 0
 		},
-	"\/images\/brewer-fund-logo.png": {
-		"ft": 32768,
-		"iS": 19012,
-		"oA": 0,
-		"oAP": "\/images\/brewer-fund-logo.png",
-		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
-		"oT": 1,
-		"q": 100
-		},
-	"\/images\/galleria-news-arrows-hoverfocus.png": {
-		"ft": 32768,
-		"iS": 714,
-		"oA": 0,
-		"oAP": "\/images\/galleria-news-arrows-hoverfocus.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
 	"\/images\/global-footer-bg.jpg": {
 		"ft": 16384,
 		"iS": 232642,
@@ -124,169 +430,74 @@
 		"oAP": "\/images\/global-footer-bg.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/home-section-180716-bharucha-spotlight.jpg": {
-		"ft": 16384,
-		"iS": 147791,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/images\/home-section-180716-bharucha-spotlight.jpg",
-		"oF": 0,
-		"oIPL": 0,
 		"opt": 1,
-		"q": 100
-		},
-	"\/images\/home-section-academic-0007_16_02_KR_0122.jpg": {
-		"ft": 16384,
-		"iS": 134091,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/images\/home-section-academic-0007_16_02_KR_0122.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
 		"q": 100
 		},
 	"\/images\/home-section-admissions.jpg": {
 		"ft": 16384,
-		"iS": 46740,
+		"iS": 145424,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "\/images\/home-section-admissions.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/home-section-alumnaei-180723-main-meade.jpg": {
-		"ft": 16384,
-		"iS": 96088,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/images\/home-section-alumnaei-180723-main-meade.jpg",
-		"oF": 0,
-		"oIPL": 0,
 		"opt": 1,
 		"q": 100
 		},
-	"\/images\/home-section-arts.jpg": {
+	"\/images\/optimized\/home-slideshow-academics.jpg": {
 		"ft": 16384,
-		"iS": 100661,
+		"iS": 107499,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/images\/home-section-arts.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/images\/home-section-athletics.jpg": {
-		"ft": 16384,
-		"iS": 196358,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/images\/home-section-athletics.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/images\/home-section-campuslife-outing-9.jpg": {
-		"ft": 16384,
-		"iS": 211786,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/images\/home-section-campuslife-outing-9.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/images\/home-slideshow-academics-14_Academics.jpg": {
-		"ft": 16384,
-		"iS": 74367,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/images\/home-slideshow-academics-14_Academics.jpg",
+		"oAP": "\/images\/optimized\/home-slideshow-academics.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/images\/home-slideshow-arts.jpg": {
+	"\/images\/optimized\/home-slideshow-arts.jpg": {
 		"ft": 16384,
-		"iS": 218790,
+		"iS": 79947,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/images\/home-slideshow-arts.jpg",
+		"oAP": "\/images\/optimized\/home-slideshow-arts.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/images\/home-slideshow-athetics-21_Athletics.jpg": {
+	"\/images\/optimized\/home-slideshow-athletics.jpg": {
 		"ft": 16384,
-		"iS": 77967,
+		"iS": 125223,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/images\/home-slideshow-athetics-21_Athletics.jpg",
+		"oAP": "\/images\/optimized\/home-slideshow-athletics.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/images\/home-slideshow-athetics-22_Athletics.jpg": {
+	"\/images\/optimized\/home-slideshow-campus-life.jpg": {
 		"ft": 16384,
-		"iS": 70239,
+		"iS": 203351,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/images\/home-slideshow-athetics-22_Athletics.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"\/images\/home-slideshow-campus-life_26A6688.jpg": {
-		"ft": 16384,
-		"iS": 91432,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/images\/home-slideshow-campus-life_26A6688.jpg",
+		"oAP": "\/images\/optimized\/home-slideshow-campus-life.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"\/images\/home-slideshow-our-campus.jpg": {
+	"\/images\/optimized\/home-slideshow-our-campus.jpg": {
 		"ft": 16384,
-		"iS": 118941,
+		"iS": 107061,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "\/images\/home-slideshow-our-campus.jpg",
+		"oAP": "\/images\/optimized\/home-slideshow-our-campus.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
-		},
-	"\/images\/home-slideshow-Sunset-Lake-summer-13-TT_0646.jpg": {
-		"ft": 16384,
-		"iS": 118941,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "\/images\/home-slideshow-Sunset-Lake-summer-13-TT_0646.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/nav.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/nav.html",
-		"oF": 0
 		},
 	"\/sass\/_config.scss": {
 		"aP": 0,
