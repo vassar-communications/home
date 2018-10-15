@@ -579,9 +579,11 @@
     a.items__tabLink {
         border-bottom: none;
     }
-    .items__tabLink:hover,
-    .items__tabLink:focus {
+    .items__tabLink:hover {
         background:$linkColorHoverFocus;
+    }
+    .items__tabLink:focus {
+        background:$linkColor;
     }
     .items__tabLink:active {
         background:$linkColorActive;
