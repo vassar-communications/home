@@ -508,6 +508,12 @@
     .u-ArticleGroup--newsMediaTicker>ul.Module__list>li:first-child {
         display:block
     }
+    .items__nav {
+        .items__tabLink {
+            width:1.25em;
+            height:1.25em;
+        }    
+    }
 }
 @media all and (min-width: 21.88em) {
     .js {
@@ -535,6 +541,12 @@
         .u-ArticleGroup--newsMediaTicker>ul.Module__list {
             margin: 0 auto;
             padding: 4.5em 0 0 0;
+        }
+        .items__nav {
+            .items__tabLink {
+                width:1em;
+                height:1em;
+            }    
         }
     }
 }
