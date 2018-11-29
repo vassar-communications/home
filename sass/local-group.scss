@@ -29,13 +29,117 @@
     }
 }
 .Module__fullWidthAthletics {
-    .brewersFund {
-        text-align: center;
-        margin: 2em 0 0;
-    }
     .Module__listItem {
         margin-bottom: 0;
         padding-bottom: 0;
+    }
+    .Module__header {
+        display: block;
+        text-align: center;
+        text-transform: uppercase;
+        font-size: 3em;
+        margin-top: 4%;
+    }
+    .u-Figure {
+        position: relative;
+    }
+    .u-Figure .u-Figure__caption {
+        position: absolute;
+        padding: 2%;
+        bottom: 4%;
+        left: 4%;
+        width: 92%;
+    }
+    .u-Figure img {
+        max-height: 602px;
+        max-width: none;
+        width: 100%;
+    }
+    .brewersFund {
+        text-align: center;
+        margin: 2em 0 0;
+        margin: .5em 0 0;
+    }
+    .Module__list {
+        margin: 0 auto 8%;
+        display: flex;
+        flex-wrap: wrap;
+        max-width: 92%;
+    }
+    .Module__listItem:first-child,
+    .Module__listItem:nth-child(2),
+    .Module__listItem:nth-child(3),
+    .Module__listItem:last-child {
+        width: 100%;
+    }
+    .Module__listItem:first-child p {
+        margin-bottom: 0;
+    }
+    .Module__listItem:nth-child(2) {
+        margin-bottom: 1em;
+    }
+    .twitter-timeline {
+        padding: .075em !important;
+    }
+    .twitter-timeline,
+    .twitter-timeline-container:before {
+        bottom: 0;
+        left: 0;
+        position: absolute !important;
+        right: 0;
+        top: 0;
+    }
+    .twitter-timeline-container {
+        display: block;
+        margin: 0 auto;
+        padding-bottom: 220%;
+        position: relative;
+        width: 85%;
+    }
+    @media all and (min-width: 50em) {
+        .Module__listItem:first-child,
+        .Module__listItem:nth-child(2) {
+            width: 100%;
+            padding: 0 20%;
+        }
+        .Module__listItem:nth-child(3) {
+            width: 80%;
+            padding-right: 2%;
+        }
+        .Module__listItem:nth-child(4) {
+            width: 20%;
+        }
+        .u-Figure .u-Figure__caption {
+            width: 50%;
+        }
+    }
+    @media screen and ( min-width: 56.25em ) {
+        .twitter-timeline,
+        .twitter-timeline-container {
+            width: 100%;
+        }
+    }
+    @media all and (min-width: 80em) {
+        .Module__list {
+            max-width: 70em;
+        }
+    }
+    .Module__header {
+        color: $greyPantone410 !important;
+    }
+    background: #d4cfce url(../../../assets/images/home-section-pattern-vc-white.png) repeat;
+    background-size: 9em;
+    .Module__listItem:nth-child(4) .Module__desc {
+        padding-bottom: 0;
+        line-height: 1;
+    }
+    .u-Figure .u-Figure__caption {
+        color: #FFFFFF;
+        background-color: rgba(0,0,0,0.75);
+    }
+    .twitter-timeline-container:before {
+        border: solid .075em #d4cfce;
+        content: "";
     }
 }
 .Module__fullWidthAdmission {
@@ -151,9 +255,6 @@
     .Module__listItem {
         background-color: rgba(0, 0, 0, 0.65);
     }
-}
-.Module__fullWidthAthletics {
-    @extend .vassar_stars;
 }
 
 /* temporary until Ray adjusts Gamut */
@@ -662,4 +763,4 @@
         color: #fff !important;
     }       
 }
-.vassar_stars,.Module__fullWidthAthletics{background:linear-gradient(324deg, #f8f7f7 4%, transparent 4%) -70px 43px,linear-gradient(36deg, #f8f7f7 4%, transparent 4%) 30px 43px,linear-gradient(72deg, #fff 8.5%, transparent 8.5%) 30px 43px,linear-gradient(288deg, #fff 8.5%, transparent 8.5%) -70px 43px,linear-gradient(216deg, #fff 7.5%, transparent 7.5%) -70px 23px,linear-gradient(144deg, #fff 7.5%, transparent 7.5%) 30px 23px,linear-gradient(324deg, #f8f7f7 4%, transparent 4%) -20px 93px,linear-gradient(36deg, #f8f7f7 4%, transparent 4%) 80px 93px,linear-gradient(72deg, #fff 8.5%, transparent 8.5%) 80px 93px,linear-gradient(288deg, #fff 8.5%, transparent 8.5%) -20px 93px,linear-gradient(216deg, #fff 7.5%, transparent 7.5%) -20px 73px,linear-gradient(144deg, #fff 7.5%, transparent 7.5%) 80px 73px;background-color:#f8f7f7;background-size:100px 100px}
+.vassar_stars{background:linear-gradient(324deg, #f8f7f7 4%, transparent 4%) -70px 43px,linear-gradient(36deg, #f8f7f7 4%, transparent 4%) 30px 43px,linear-gradient(72deg, #fff 8.5%, transparent 8.5%) 30px 43px,linear-gradient(288deg, #fff 8.5%, transparent 8.5%) -70px 43px,linear-gradient(216deg, #fff 7.5%, transparent 7.5%) -70px 23px,linear-gradient(144deg, #fff 7.5%, transparent 7.5%) 30px 23px,linear-gradient(324deg, #f8f7f7 4%, transparent 4%) -20px 93px,linear-gradient(36deg, #f8f7f7 4%, transparent 4%) 80px 93px,linear-gradient(72deg, #fff 8.5%, transparent 8.5%) 80px 93px,linear-gradient(288deg, #fff 8.5%, transparent 8.5%) -20px 93px,linear-gradient(216deg, #fff 7.5%, transparent 7.5%) -20px 73px,linear-gradient(144deg, #fff 7.5%, transparent 7.5%) 80px 73px;background-color:#f8f7f7;background-size:100px 100px}
