@@ -264,7 +264,7 @@
 /* Galleria */
 .galleria-info-title {
     display: inline;
-    font: normal $fontWeightNormal 1em/1 $sans-serif-condensed !important;
+    font: normal $fontWeightNormal 1.5em/1 $sans-serif-condensed !important;
 	text-transform: uppercase;
 	letter-spacing: .1em;
     &:after {
@@ -280,7 +280,7 @@
 }
 .galleria-button-link,
 .galleria-link {
-    font: normal $fontWeightNormal .9em/1 $sans-serif !important;
+    font: normal $fontWeightNormal 1em/1 $sans-serif !important;
 }
 .button-link {
     font: normal $fontWeightNormal 1.5em/1 $sans-serif-condensed !important;
@@ -296,6 +296,12 @@
     display: inline;
 }
 @media screen {
+    .galleria {
+       padding-bottom: 13em;
+    }
+    .galleria-container {
+       overflow:visible;
+    }
     .galleria--content {
         margin: 0;
     }
@@ -303,13 +309,24 @@
 		bottom: 0;
 		top: auto;
 		left: 0;
-		width: auto;
+		width: 100%;
+        right: auto;
 	}
     .galleria-info-text {
         padding: .5em .75em .75em;
+        position: absolute;
+        display: block;
+        width: 100%;
     }
-    .galleria-desc-container {
-        display: none;
+    .galleria-tooltip {
+       margin-bottom: 0;
+    }
+    .galleria-button {
+       margin: 1.75em 0 1em .5em;
+    }
+    /*.galleria-desc-container, */
+    .galleria-info-title {
+        display: block;
     }
 	.galleria-counter {
 		bottom: auto;
@@ -340,7 +357,13 @@
         overflow: visible;
     }
 }
-@media all and (min-width: $small) {
+@media all and (min-width: $small) {    
+   .galleria {
+       padding-bottom: 0;
+   } 
+   .galleria-container {
+       overflow:hidden;
+   }
     .galleria-info-title {
         display: block !important;
         font: normal $fontWeightNormal 3em/1 $sans-serif-condensed !important;
@@ -399,6 +422,7 @@
 	}
     .galleria-info-text {
         padding: 2em;
+        position: relative;
     }
 	.galleria-counter {
 		bottom: 2em;
