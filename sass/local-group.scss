@@ -45,7 +45,7 @@
     }
     .u-Figure .u-Figure__caption {
         position: relative;
-        padding: 4%;
+        padding: 3%;
         width: 100%;
         margin-top: 0;
     }
@@ -177,11 +177,13 @@
         }
         .Module__listItem {
             width: 92%;
-            padding: 3%;
-            /* margin: 50% 0 auto; */
+            padding: 1.5%;
             position: absolute;
             bottom: 6%;
             left: 3%;
+            margin-bottom: 0;
+        }
+        .Module__title {
             margin-bottom: 0;
         }
     }
@@ -197,7 +199,6 @@
             width: 50%;
             max-width: 100%;
             background-color: #00000096;
-            /* margin: 0 0 15% auto; */
         }
     }
     .Module__fullWidthAcademicsFaculty,
@@ -309,9 +310,6 @@
     font-size: 88.9%;
 }
 .galleria-button-link,
-.galleria-link {
-    font: normal $fontWeightNormal 1em/1 $sans-serif !important;
-}
 .button-link {
     font: normal $fontWeightNormal 1.5em/1 $sans-serif-condensed !important;
     text-transform: uppercase;
@@ -343,7 +341,7 @@
         right: auto;
 	}
     .galleria-info-text {
-        padding: .5em .75em .75em;
+        padding: 5%;
         position: absolute;
         display: block;
         width: 100%;
@@ -352,7 +350,10 @@
        margin-bottom: 0;
     }
     .galleria-button {
-       margin: 1.75em 0 1em .5em;
+        margin: 0;
+        display: block;
+        text-align: right;
+        padding: 0 .25em .19em;
     }
     /*.galleria-desc-container, */
     .galleria-info-title {
@@ -414,19 +415,15 @@
     .galleria--alumnaei-spotlight .galleria-desc-container {
         display: inline;
     }
-    .galleria-button,
     .button {
-        display: block;
         margin: 1.75em 0 1em;
-        text-align: right;
     }
     .button {
         text-align: center;
     }
     .galleria-button-link,
-    .galleria-link,
     .button-link {
-        font: normal $fontWeightNormal 1.75em/1 $sans-serif-condensed !important;
+        font: normal $fontWeightNormal 1.5em/1 $sans-serif-condensed !important;
         text-transform: uppercase;
         letter-spacing: .03em;
         padding: 0 .25em .19em;
@@ -451,34 +448,31 @@
 		width: 33%;
 	}
     .galleria-info-text {
-        padding: 2em;
         position: relative;
     }
 	.galleria-counter {
 		bottom: 2em;
 		right: 2em;
 	}
-    .galleria-info-description.u-Figure__caption--description {
-        .galleria-button-link {
-            background-color: $linkColor;
-            color: #fff !important;
-            border: 1px solid #fff;
-            &:visited {
-                background-color: $linkColor;
-                color: #fff !important;
-            }
-            &:hover,
-            &:focus {
-                background-color: $linkColorHoverFocus;
-                color: #fff !important;
-            }
-            &:active {
-                background-color: $linkColorActive;
-                color: #fff !important;
-            }
-        }
+}
+.galleria-info-description.u-Figure__caption--description .galleria-button-link,
+.galleria-button-link {
+    background-color: $linkColor;
+    color: #fff !important;
+    border: 1px solid #fff;
+    &:visited {
+        background-color: $linkColor;
+        color: #fff !important;
     }
-
+    &:hover,
+    &:focus {
+        background-color: $linkColorHoverFocus;
+        color: #fff !important;
+    }
+    &:active {
+        background-color: $linkColorActive;
+        color: #fff !important;
+    }
 }
 .galleria-info-text {
     background-color: #000;

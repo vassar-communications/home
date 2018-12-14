@@ -927,6 +927,17 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/design-files/homepage/slideshow/s_ifill.jpg": {
+		"ft": 16384,
+		"iS": 2281840,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/design-files/homepage/slideshow/s_ifill.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/design-files/homepage/slideshow/slideshow-basketball-00.jpg": {
 		"ft": 16384,
 		"iS": 112561,
@@ -1751,6 +1762,17 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
+		"q": 100
+		},
+	"/images/home-section-slideshow-alumnaei-ifill.jpg": {
+		"ft": 16384,
+		"iS": 73422,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/home-section-slideshow-alumnaei-ifill.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/images/home-section-slideshow-alumnaei-meade.jpg": {
