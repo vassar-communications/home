@@ -326,6 +326,7 @@
 @media screen {
     .galleria {
        padding-bottom: 13em;
+        z-index: 1;
     }
     .galleria-container {
        overflow:visible;
@@ -341,7 +342,7 @@
         right: auto;
 	}
     .galleria-info-text {
-        padding: 5%;
+        padding: 4%;
         position: absolute;
         display: block;
         width: 100%;
@@ -775,4 +776,31 @@
 }
 .u-ArticleGroup--newsMediaTicker .Module__listItem .Module__link {
     @include link-colors($fontColor, $linkColorHoverFocus, $linkColorActive, $fontColor, $linkColorHoverFocus);
+}
+/* Holiday Styles */
+.Module__fullWidthHolidayBreak {
+    .Module__listItem {
+        margin-bottom: 0;
+        padding-bottom: 0;
+    }
+    .Module__title {
+        margin-bottom: 0;
+    }
+	background: #746661 url(../../../assets/images/home-section-holiday-bg.jpg) no-repeat;
+    color: #fff;
+    background-size: cover;
+    border-bottom: .5em solid #fff;
+}
+@media all and (min-width: $small) { 
+   .galleria {
+       /* background: #746661 url(../../../assets/images/home-section-holiday-bg.jpg) no-repeat; */
+       background-size: cover;
+       border-bottom: .5em solid #fff;
+    }
+    .Module__fullWidthHolidayBreak {
+        .Module__list {
+            margin-top: 2%;
+            margin-bottom: 2%;
+        }
+    }
 }

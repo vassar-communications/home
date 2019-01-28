@@ -40,952 +40,12 @@
 		"oF": 0,
 		"oS": 3
 		},
-	"/design-files/6DAF52D5527CF68.png": {
-		"ft": 32768,
-		"iS": 308646,
-		"oA": 0,
-		"oAP": "/design-files/6DAF52D5527CF68.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/design-files/header-bg-social-media.psd": {
+	"/design-files/holiday-background.psd": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
-		"oAP": "/design-files/header-bg-social-media.psd",
+		"oAP": "/design-files/holiday-background.psd",
 		"oF": 0
-		},
-	"/design-files/homepage/_Original Format/0017_17_01_JA_1162.jpg": {
-		"ft": 16384,
-		"iS": 2849276,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/0017_17_01_JA_1162.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/0017_17_01_JA_1182.jpg": {
-		"ft": 16384,
-		"iS": 2520671,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/0017_17_01_JA_1182.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/0032_15_04_JA_153.jpg": {
-		"ft": 16384,
-		"iS": 1242461,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/0032_15_04_JA_153.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/0032_15_04_JA_156.jpg": {
-		"ft": 16384,
-		"iS": 1818313,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/0032_15_04_JA_156.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/0032_15_04_JA_545.jpg": {
-		"ft": 16384,
-		"iS": 1787692,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/0032_15_04_JA_545.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/0032_15_04_JA_655.jpg": {
-		"ft": 16384,
-		"iS": 2094544,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/0032_15_04_JA_655.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/0039_15_05_HW_1847.jpg": {
-		"ft": 16384,
-		"iS": 2173425,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/0039_15_05_HW_1847.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/0040_16_04_KR_0042.jpg": {
-		"ft": 16384,
-		"iS": 3222789,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/0040_16_04_KR_0042.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/0040_16_04_KR_0056.jpg": {
-		"ft": 16384,
-		"iS": 2178602,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/0040_16_04_KR_0056.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/0047_14_05_KR_0045.jpg": {
-		"ft": 16384,
-		"iS": 2793688,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/0047_14_05_KR_0045.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/0054_15_06_CS_245.jpg": {
-		"ft": 16384,
-		"iS": 4887142,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/0054_15_06_CS_245.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/0056_13_05_TT_0875.jpg": {
-		"ft": 16384,
-		"iS": 2243891,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/0056_13_05_TT_0875.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/0056_13_05_TT_0879.jpg": {
-		"ft": 16384,
-		"iS": 2268513,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/0056_13_05_TT_0879.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/0084_15_09_KR_0026.jpg": {
-		"ft": 16384,
-		"iS": 3150275,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/0084_15_09_KR_0026.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/0087_16_05_KR_0015.jpg": {
-		"ft": 16384,
-		"iS": 5606092,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/0087_16_05_KR_0015.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/0091_15_09_KR_0201.jpg": {
-		"ft": 16384,
-		"iS": 3470207,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/0091_15_09_KR_0201.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/0091_15_09_KR_0223.jpg": {
-		"ft": 16384,
-		"iS": 3800137,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/0091_15_09_KR_0223.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/0094_14_10_KR_0038.jpg": {
-		"ft": 16384,
-		"iS": 2919015,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/0094_14_10_KR_0038.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/0097_16_09_TT_2786.jpg": {
-		"ft": 16384,
-		"iS": 3115827,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/0097_16_09_TT_2786.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/0097_16_09_TT_2788.jpg": {
-		"ft": 16384,
-		"iS": 3488626,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/0097_16_09_TT_2788.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/0100_16_09_KR_0056-2.jpg": {
-		"ft": 16384,
-		"iS": 1875463,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/0100_16_09_KR_0056-2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/0105_14_11_TT_2826.jpg": {
-		"ft": 16384,
-		"iS": 4032891,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/0105_14_11_TT_2826.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/0105_14_11_TT_2871.jpg": {
-		"ft": 16384,
-		"iS": 3520229,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/0105_14_11_TT_2871.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/0105_14_11_TT_2872.jpg": {
-		"ft": 16384,
-		"iS": 3388578,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/0105_14_11_TT_2872.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/0105_14_11_TT_2889.jpg": {
-		"ft": 16384,
-		"iS": 3427470,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/0105_14_11_TT_2889.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/0110_15_10_TT_6291_edit.jpg": {
-		"ft": 16384,
-		"iS": 5920679,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/0110_15_10_TT_6291_edit.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/0118_15_12_KR_0062.jpg": {
-		"ft": 16384,
-		"iS": 1917780,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/0118_15_12_KR_0062.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/0118_15_12_KR_0063.jpg": {
-		"ft": 16384,
-		"iS": 3405673,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/0118_15_12_KR_0063.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/0118_15_12_KR_0065.jpg": {
-		"ft": 16384,
-		"iS": 4080081,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/0118_15_12_KR_0065.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/0124_15_05_HW_9372.jpg": {
-		"ft": 16384,
-		"iS": 6158167,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/0124_15_05_HW_9372.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/0128_15_10_JA_433.jpg": {
-		"ft": 16384,
-		"iS": 3905789,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/0128_15_10_JA_433.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/0129_15_05_TT_3899.jpg": {
-		"ft": 16384,
-		"iS": 4614832,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/0129_15_05_TT_3899.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/0130_15_10_TT_5626.jpg": {
-		"ft": 16384,
-		"iS": 5942897,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/0130_15_10_TT_5626.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/0130_15_10_TT_5631.jpg": {
-		"ft": 16384,
-		"iS": 7183581,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/0130_15_10_TT_5631.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/0135_15_11_CS_294.jpg": {
-		"ft": 16384,
-		"iS": 2440742,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/0135_15_11_CS_294.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/0152_13_10_ KF_0272.jpg": {
-		"ft": 16384,
-		"iS": 6170180,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/0152_13_10_ KF_0272.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/0155_13_11_TT_9661.jpg": {
-		"ft": 16384,
-		"iS": 1720068,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/0155_13_11_TT_9661.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/0155_17_10_KR_4546.jpg": {
-		"ft": 16384,
-		"iS": 1883316,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/0155_17_10_KR_4546.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/0155_17_10_KR_4559.jpg": {
-		"ft": 16384,
-		"iS": 1748645,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/0155_17_10_KR_4559.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/0155_17_10_KR_6207.jpg": {
-		"ft": 16384,
-		"iS": 1840409,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/0155_17_10_KR_6207.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/0155_17_10_KR_6269.jpg": {
-		"ft": 16384,
-		"iS": 2801354,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/0155_17_10_KR_6269.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/0177_16_09_KR_0066.jpg": {
-		"ft": 16384,
-		"iS": 3094193,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/0177_16_09_KR_0066.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/169_13_12_TT_0381.jpg": {
-		"ft": 16384,
-		"iS": 5225014,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/169_13_12_TT_0381.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/24729250457_eb16cd5a5a_o.jpg": {
-		"ft": 16384,
-		"iS": 1460897,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/24729250457_eb16cd5a5a_o.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/_26A6688.jpg": {
-		"ft": 16384,
-		"iS": 7610762,
-		"jF": 0,
-		"oA": 1,
-		"oAP": "/design-files/homepage/_Original Format/_26A6688.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/_26A6734.jpg": {
-		"ft": 16384,
-		"iS": 8369712,
-		"jF": 0,
-		"oA": 1,
-		"oAP": "/design-files/homepage/_Original Format/_26A6734.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/_26A6753.jpg": {
-		"ft": 16384,
-		"iS": 7869238,
-		"jF": 0,
-		"oA": 1,
-		"oAP": "/design-files/homepage/_Original Format/_26A6753.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/Chapel fall 04 TT 15.1.jpg": {
-		"ft": 16384,
-		"iS": 1447659,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/Chapel fall 04 TT 15.1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/Chapel spring 15 TT_1226.jpg": {
-		"ft": 16384,
-		"iS": 5078908,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/Chapel spring 15 TT_1226.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/Chapel summer 1706 CS _5686_insta.jpg": {
-		"ft": 16384,
-		"iS": 3348967,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/Chapel summer 1706 CS _5686_insta.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/Library fall 15 TT_2048.jpg": {
-		"ft": 16384,
-		"iS": 3216887,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/Library fall 15 TT_2048.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/Library Quad fall 1010 TT 8415edit.jpg": {
-		"ft": 16384,
-		"iS": 5490430,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/Library Quad fall 1010 TT 8415edit.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/Library spring 09 GFS 1_edit.jpg": {
-		"ft": 16384,
-		"iS": 4113755,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/Library spring 09 GFS 1_edit.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/Library sunset fall 1710 TT_6215_insta.jpg": {
-		"ft": 16384,
-		"iS": 5015533,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/Library sunset fall 1710 TT_6215_insta.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/Rocky quad fall 1010 JA 255.jpg": {
-		"ft": 16384,
-		"iS": 4382306,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/Rocky quad fall 1010 JA 255.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/Selects/0007_16_02_KR_0066.jpg": {
-		"ft": 16384,
-		"iS": 3924604,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/Selects/0007_16_02_KR_0066.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/Selects/0060_16_06_TT_2026.jpg": {
-		"ft": 16384,
-		"iS": 2911921,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/Selects/0060_16_06_TT_2026.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/Selects/0074_16_07_KR_0048.jpg": {
-		"ft": 16384,
-		"iS": 3809000,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/Selects/0074_16_07_KR_0048.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/Selects/0123_18_09_KR_2518.jpg": {
-		"ft": 16384,
-		"iS": 2600156,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/Selects/0123_18_09_KR_2518.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/Selects/0137_14_11_KR_0123.jpg": {
-		"ft": 16384,
-		"iS": 1933099,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/Selects/0137_14_11_KR_0123.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/Selects/0179_16_09_KR_0015.jpg": {
-		"ft": 16384,
-		"iS": 1860847,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/Selects/0179_16_09_KR_0015.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/Selects/Aeria_Vassar_Campus_5_3_17_0036.jpg": {
-		"ft": 16384,
-		"iS": 3175707,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/Selects/Aeria_Vassar_Campus_5_3_17_0036.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/Selects/Vassar_Senior_20180509_KR_6051.jpg": {
-		"ft": 16384,
-		"iS": 7574661,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/Selects/Vassar_Senior_20180509_KR_6051.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/Selects/VC_ACDC students_KR.jpg": {
-		"ft": 16384,
-		"iS": 2719711,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/Selects/VC_ACDC students_KR.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/Shakespeare Garden 1608 TT_3751.jpg": {
-		"ft": 16384,
-		"iS": 5662853,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/Shakespeare Garden 1608 TT_3751.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/Sharon Lee Lights 1405 II_9162.jpg": {
-		"ft": 16384,
-		"iS": 3222600,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/Sharon Lee Lights 1405 II_9162.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/Sunset Lake 0505 TT 713.jpg": {
-		"ft": 16384,
-		"iS": 3406121,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/Sunset Lake 0505 TT 713.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/Sunset Lake 15 TT_1519.jpg": {
-		"ft": 16384,
-		"iS": 3649898,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/Sunset Lake 15 TT_1519.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/Sunset Lake summer 13 TT_0646.jpg": {
-		"ft": 16384,
-		"iS": 4016367,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/Sunset Lake summer 13 TT_0646.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/Sunset Lake summer TT 6172_edit.jpg": {
-		"ft": 16384,
-		"iS": 6556945,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/Sunset Lake summer TT 6172_edit.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/Thompson Library 1512 KR 0004_edit2.jpg": {
-		"ft": 16384,
-		"iS": 3672282,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/Thompson Library 1512 KR 0004_edit2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/Track 1505 HW_7799.jpg": {
-		"ft": 16384,
-		"iS": 1596157,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/Track 1505 HW_7799.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/Vassar Chapel 1604 TT_9639.jpg": {
-		"ft": 16384,
-		"iS": 2252983,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/Vassar Chapel 1604 TT_9639.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/Vassar Chapel fall 1511 TT 7663.jpg": {
-		"ft": 16384,
-		"iS": 3308016,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/Vassar Chapel fall 1511 TT 7663.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/design-files/homepage/_Original Format/Vassar Chapel fall 1511 TT 7672.jpg": {
-		"ft": 16384,
-		"iS": 2666878,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/_Original Format/Vassar Chapel fall 1511 TT 7672.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/design-files/homepage/slideshow/home-slideshow-campus-culture.jpg": {
-		"ft": 16384,
-		"iS": 171473,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/slideshow/home-slideshow-campus-culture.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/slideshow/home-slideshow-civic-engagement.jpg": {
-		"ft": 16384,
-		"iS": 150854,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/slideshow/home-slideshow-civic-engagement.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/slideshow/home-slideshow-make-impact.jpg": {
-		"ft": 16384,
-		"iS": 72547,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/slideshow/home-slideshow-make-impact.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/slideshow/home-slideshow-sustainability.jpg": {
-		"ft": 16384,
-		"iS": 163055,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/slideshow/home-slideshow-sustainability.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/slideshow/s_ifill.jpg": {
-		"ft": 16384,
-		"iS": 2281840,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/slideshow/s_ifill.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/homepage/slideshow/slideshow-basketball-00.jpg": {
-		"ft": 16384,
-		"iS": 112561,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/homepage/slideshow/slideshow-basketball-00.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/Vassar logo 13.pdf": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/design-files/Vassar logo 13.pdf",
-		"oF": 0
-		},
-	"/design-files/vassar-logo-extra-icon.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/design-files/vassar-logo-extra-icon.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
-		},
-	"/design-files/vassar-logo-ribbon.png": {
-		"ft": 32768,
-		"iS": 11233,
-		"oA": 0,
-		"oAP": "/design-files/vassar-logo-ribbon.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/design-files/vassar-logo-ribbon.svg": {
-		"ft": 2097152,
-		"miP": 0,
-		"oA": 2,
-		"oAP": "/design-files/vassar-logo-ribbon.svg",
-		"oF": 0,
-		"opt": 0,
-		"plM": 3758088159,
-		"prP": 0
 		},
 	"/images/_notes/dwsync.xml": {
 		"cB": 0,
@@ -1000,8 +60,8 @@
 		"oA": 0,
 		"oAP": "/images/about-facts-pie-one.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -1024,7 +84,7 @@
 		"oAP": "/images/about-footer-bg.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/images/about-header-bg.jpg": {
@@ -1035,7 +95,7 @@
 		"oAP": "/images/about-header-bg.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/images/about-history-bg.jpg": {
@@ -1156,7 +216,7 @@
 		"oAP": "/images/academics-faculty.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/images/academics-header-bg.jpg": {
@@ -1203,9 +263,20 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/images/alert-snow-collage.jpg": {
+		"ft": 16384,
+		"iS": 470520,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/alert-snow-collage.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/images/background.jpg": {
 		"ft": 16384,
-		"iS": 445100,
+		"iS": 0,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/images/background.jpg",
@@ -1214,9 +285,20 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/images/bg-pattern-vc-white.png": {
+		"ft": 32768,
+		"iS": 6622,
+		"oA": 0,
+		"oAP": "/images/bg-pattern-vc-white.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/images/campuslife-0124_15_05_HW_2315.jpg": {
 		"ft": 16384,
-		"iS": 131072,
+		"iS": 134795,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/images/campuslife-0124_15_05_HW_2315.jpg",
@@ -1266,7 +348,7 @@
 		"oAP": "/images/campuslife-engagement-0111_17_07_KR_0065.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/images/campuslife-header-bg-acdc-7073.jpg": {
@@ -1343,7 +425,7 @@
 		"oAP": "/images/campuslife-Post-Office-0709-JA_5268.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/images/campuslife-residentiallife-Coed-bathroom.jpg": {
@@ -1370,7 +452,7 @@
 		},
 	"/images/campuslife-services-10-move-in-day-36604450551.jpg": {
 		"ft": 16384,
-		"iS": 0,
+		"iS": 102000,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/images/campuslife-services-10-move-in-day-36604450551.jpg",
@@ -1431,7 +513,7 @@
 		"oAP": "/images/cropped-180817-bergstrom-hadley-0004.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/images/cropped-180906-epi-6464.jpg": {
@@ -1469,7 +551,7 @@
 		},
 	"/images/facebook-icon-active.png": {
 		"ft": 32768,
-		"iS": 1525,
+		"iS": 0,
 		"oA": 0,
 		"oAP": "/images/facebook-icon-active.png",
 		"oF": 0,
@@ -1517,8 +599,8 @@
 		"oA": 0,
 		"oAP": "/images/flickr-icon-hover.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -1585,18 +667,18 @@
 		"oAP": "/images/global-footer-bg.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/images/home-section-academic-b.jpg": {
 		"ft": 16384,
-		"iS": 170813,
+		"iS": 217553,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/images/home-section-academic-b.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/images/home-section-academic.jpg": {
@@ -1623,13 +705,13 @@
 		},
 	"/images/home-section-arts-b.jpg": {
 		"ft": 16384,
-		"iS": 157718,
+		"iS": 130386,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/images/home-section-arts-b.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/images/home-section-arts.jpg": {
@@ -1638,6 +720,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/images/home-section-arts.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images/home-section-athletics-b.jpg": {
+		"ft": 16384,
+		"iS": 160466,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/home-section-athletics-b.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1652,28 +745,6 @@
 		"oIPL": 0,
 		"opt": 0,
 		"oT": 1,
-		"q": 100
-		},
-	"/images/home-section-athletics-field-hockey.jpg": {
-		"ft": 16384,
-		"iS": 115637,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/home-section-athletics-field-hockey.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/home-section-athletics-old.jpg": {
-		"ft": 16384,
-		"iS": 190924,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/home-section-athletics-old.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
 		"q": 100
 		},
 	"/images/home-section-athletics-rugby.jpg": {
@@ -1700,7 +771,7 @@
 		},
 	"/images/home-section-campuslife-b.jpg": {
 		"ft": 16384,
-		"iS": 138063,
+		"iS": 140820,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/images/home-section-campuslife-b.jpg",
@@ -1715,6 +786,17 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/images/home-section-campuslife.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images/home-section-holiday-bg.jpg": {
+		"ft": 16384,
+		"iS": 102590,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/home-section-holiday-bg.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1766,13 +848,13 @@
 		},
 	"/images/home-section-slideshow-alumnaei-ifill.jpg": {
 		"ft": 16384,
-		"iS": 73422,
+		"iS": 103978,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/images/home-section-slideshow-alumnaei-ifill.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/images/home-section-slideshow-alumnaei-meade.jpg": {
@@ -1819,31 +901,53 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/images/home-slideshow-athletics-fieldhockey.jpg": {
+	"/images/home-slideshow-athletics-basketball.jpg": {
 		"ft": 16384,
-		"iS": 217139,
+		"iS": 112561,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/home-slideshow-athletics-fieldhockey.jpg",
+		"oAP": "/images/home-slideshow-athletics-basketball.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
 		"q": 100
 		},
-	"/images/home-slideshow-athletics.jpg": {
+	"/images/home-slideshow-athletics-vassar-womens-rugby-champs-2.jpg": {
 		"ft": 16384,
-		"iS": 125223,
+		"iS": 182468,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/home-slideshow-athletics.jpg",
+		"oAP": "/images/home-slideshow-athletics-vassar-womens-rugby-champs-2.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
+		"q": 100
+		},
+	"/images/home-slideshow-campus-culture.jpg": {
+		"ft": 16384,
+		"iS": 171473,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/home-slideshow-campus-culture.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images/home-slideshow-campus-life-1.jpg": {
+		"ft": 16384,
+		"iS": 178522,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/home-slideshow-campus-life-1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"/images/home-slideshow-campus-life.jpg": {
 		"ft": 16384,
-		"iS": 203351,
+		"iS": 0,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/images/home-slideshow-campus-life.jpg",
@@ -1852,12 +956,56 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/images/home-slideshow-civic-engagement.jpg": {
+		"ft": 16384,
+		"iS": 150854,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/home-slideshow-civic-engagement.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images/home-slideshow-faculty.jpg": {
+		"ft": 16384,
+		"iS": 124025,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/home-slideshow-faculty.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images/home-slideshow-holidays-thanksgivingmenus.jpg": {
+		"ft": 16384,
+		"iS": 268901,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/home-slideshow-holidays-thanksgivingmenus.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/images/home-slideshow-make-impact.jpg": {
 		"ft": 16384,
-		"iS": 77426,
+		"iS": 76696,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/images/home-slideshow-make-impact.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images/home-slideshow-our-campus-winter.jpg": {
+		"ft": 16384,
+		"iS": 220302,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/home-slideshow-our-campus-winter.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1874,15 +1022,15 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/images/home-slideshow-our-sustainability.jpg": {
+	"/images/home-slideshow-sustainability.jpg": {
 		"ft": 16384,
-		"iS": 125044,
+		"iS": 124071,
 		"jF": 0,
 		"oA": 0,
-		"oAP": "/images/home-slideshow-our-sustainability.jpg",
+		"oAP": "/images/home-slideshow-sustainability.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"/images/home-slideshow-vote.png": {
@@ -2055,6 +1203,17 @@
 		"oF": 0,
 		"opt": 0
 		},
+	"/images/icons/snowflakes.png": {
+		"ft": 32768,
+		"iS": 10956,
+		"oA": 0,
+		"oAP": "/images/icons/snowflakes.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
 	"/images/icons/tl.png": {
 		"ft": 32768,
 		"iS": 2472,
@@ -2151,8 +1310,8 @@
 		"oA": 0,
 		"oAP": "/images/linkedin-icon-active.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -2180,7 +1339,7 @@
 		},
 	"/images/page-menu-icon-hover-focus.png": {
 		"ft": 32768,
-		"iS": 557,
+		"iS": 1659,
 		"oA": 0,
 		"oAP": "/images/page-menu-icon-hover-focus.png",
 		"oF": 0,
@@ -2191,7 +1350,7 @@
 		},
 	"/images/page-menu-icon.png": {
 		"ft": 32768,
-		"iS": 0,
+		"iS": 1647,
 		"oA": 0,
 		"oAP": "/images/page-menu-icon.png",
 		"oF": 0,
@@ -2217,8 +1376,8 @@
 		"oA": 0,
 		"oAP": "/images/twitter-icon-active.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -2279,7 +1438,7 @@
 		},
 	"/images/Vassar-logo-sentence-case.png": {
 		"ft": 32768,
-		"iS": 17249,
+		"iS": 17257,
 		"oA": 0,
 		"oAP": "/images/Vassar-logo-sentence-case.png",
 		"oF": 0,
@@ -2294,8 +1453,8 @@
 		"oA": 0,
 		"oAP": "/images/vassar-logo.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -2412,8 +1571,8 @@
 		"oA": 0,
 		"oAP": "/images/youtube-icon.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
