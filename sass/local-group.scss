@@ -59,7 +59,8 @@
     .brewersFund {
         text-align: center;
         margin: 2em 0 0;
-        margin: .5em 0 0;
+        /* revert margin: .5em 0 0; */
+        margin: 0;
     }
     .Module__list {
         margin: 0 auto 8%;
@@ -101,17 +102,22 @@
         position: relative;
         width: 85%;
     }
+    .u-Video {
+        margin: 0;
+    }
     @media all and (min-width: 50em) {
-        .Module__listItem:first-child,
-        .Module__listItem:nth-child(2) {
+        .Module__listItem:first-child {
             width: 100%;
             padding: 0 20%;
         }
-        .Module__listItem:nth-child(3) {
+        .Module__listItem:first-child {
+            margin-bottom: 1em;
+        }
+        .Module__listItem:nth-child(2) {
             width: 80%;
             padding-right: 2%;
         }
-        .Module__listItem:nth-child(4) {
+        .Module__listItem:nth-child(3) {
             width: 20%;
         }
     }
@@ -134,7 +140,7 @@
     }
     background: #d4cfce url(../../../assets/images/home-section-pattern-vc-white.png) repeat;
     background-size: 9em;
-    .Module__listItem:nth-child(4) .Module__desc {
+    .Module__listItem:nth-child(3) .Module__desc {
         padding-bottom: 0;
         line-height: 1;
     }
