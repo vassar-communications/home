@@ -23,6 +23,13 @@
 		"oAP": "/.gitignore",
 		"oF": 0
 		},
+	"/css/_notes/dwsync.xml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/css/_notes/dwsync.xml",
+		"oF": 0
+		},
 	"/css/local-group.css": {
 		"aP": 1,
 		"bl": 0,
@@ -32,6 +39,35 @@
 		"oAP": "/css/local-group-min.css",
 		"oF": 0,
 		"oS": 3
+		},
+	"/design-files/31154117657_5acb3327cd_o.jpg": {
+		"ft": 16384,
+		"iS": 3597076,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/design-files/31154117657_5acb3327cd_o.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/design-files/Athletics_BF-hp-logo-edit7 (1).jpg": {
+		"ft": 16384,
+		"iS": 1844714,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/design-files/Athletics_BF-hp-logo-edit7 (1).jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/design-files/Athletics_BF-hp-logo.psd": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/design-files/Athletics_BF-hp-logo.psd",
+		"oF": 0
 		},
 	"/design-files/holiday-background.psd": {
 		"cB": 0,
@@ -269,7 +305,7 @@
 		},
 	"/images/background.jpg": {
 		"ft": 16384,
-		"iS": 0,
+		"iS": 445100,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/images/background.jpg",
@@ -291,7 +327,7 @@
 		},
 	"/images/campuslife-0124_15_05_HW_2315.jpg": {
 		"ft": 16384,
-		"iS": 134795,
+		"iS": 131072,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/images/campuslife-0124_15_05_HW_2315.jpg",
@@ -544,7 +580,7 @@
 		},
 	"/images/facebook-icon-active.png": {
 		"ft": 32768,
-		"iS": 0,
+		"iS": 1525,
 		"oA": 0,
 		"oAP": "/images/facebook-icon-active.png",
 		"oF": 0,
@@ -665,7 +701,7 @@
 		},
 	"/images/home-section-academic-b.jpg": {
 		"ft": 16384,
-		"iS": 217553,
+		"iS": 170813,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/images/home-section-academic-b.jpg",
@@ -698,7 +734,7 @@
 		},
 	"/images/home-section-arts-b.jpg": {
 		"ft": 16384,
-		"iS": 130386,
+		"iS": 157718,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/images/home-section-arts-b.jpg",
@@ -764,7 +800,7 @@
 		},
 	"/images/home-section-campuslife-b.jpg": {
 		"ft": 16384,
-		"iS": 140820,
+		"iS": 138063,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/images/home-section-campuslife-b.jpg",
@@ -841,7 +877,7 @@
 		},
 	"/images/home-section-slideshow-alumnaei-ifill.jpg": {
 		"ft": 16384,
-		"iS": 103978,
+		"iS": 73422,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/images/home-section-slideshow-alumnaei-ifill.jpg",
@@ -916,6 +952,28 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/images/home-slideshow-athletics-a.jpg": {
+		"ft": 16384,
+		"iS": 130770,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/home-slideshow-athletics-a.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images/home-slideshow-athletics-b.jpg": {
+		"ft": 16384,
+		"iS": 179091,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/home-slideshow-athletics-b.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/images/home-slideshow-athletics-basketball.jpg": {
 		"ft": 16384,
 		"iS": 112561,
@@ -962,7 +1020,7 @@
 		},
 	"/images/home-slideshow-campus-life.jpg": {
 		"ft": 16384,
-		"iS": 0,
+		"iS": 203351,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/images/home-slideshow-campus-life.jpg",
@@ -1006,7 +1064,7 @@
 		},
 	"/images/home-slideshow-make-impact.jpg": {
 		"ft": 16384,
-		"iS": 76696,
+		"iS": 77426,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/images/home-slideshow-make-impact.jpg",
@@ -1365,7 +1423,7 @@
 		},
 	"/images/page-menu-icon-hover-focus.png": {
 		"ft": 32768,
-		"iS": 1659,
+		"iS": 557,
 		"oA": 0,
 		"oAP": "/images/page-menu-icon-hover-focus.png",
 		"oF": 0,
@@ -1464,7 +1522,7 @@
 		},
 	"/images/Vassar-logo-sentence-case.png": {
 		"ft": 32768,
-		"iS": 17257,
+		"iS": 17249,
 		"oA": 0,
 		"oAP": "/images/Vassar-logo-sentence-case.png",
 		"oF": 0,
