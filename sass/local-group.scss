@@ -379,11 +379,23 @@
 			border-radius: 0;
 		}
 	}
+    .galleria-thumbnails-container {
+        display: none;
+        visibility: hidden;
+    }
     .galleria-image-nav-left,
     .galleria-image-nav-right {
         opacity: .5;
         filter: alpha(opacity=50);
         background-position: 0 50%;
+    }
+    .videoplay .galleria-image-nav {
+        position: absolute;
+        left: 0;
+        height: 100%;
+        margin-top: 0;
+        top: 0;
+        width: 100%;
     }
     .galleria-image-nav-right {
         background-position: -255px 50%;
