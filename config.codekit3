@@ -23,6 +23,13 @@
 		"oAP": "/.gitignore",
 		"oF": 0
 		},
+	"/css/_notes/dwsync.xml": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/css/_notes/dwsync.xml",
+		"oF": 0
+		},
 	"/css/local-group.css": {
 		"aP": 1,
 		"bl": 0,
@@ -32,6 +39,61 @@
 		"oAP": "/css/local-group-min.css",
 		"oF": 0,
 		"oS": 3
+		},
+	"/design-files/27brew2-video-slide-2.jpg": {
+		"ft": 16384,
+		"iS": 1265864,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/design-files/27brew2-video-slide-2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/design-files/27brew2-video-slide-3.jpg": {
+		"ft": 16384,
+		"iS": 1655449,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/design-files/27brew2-video-slide-3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/design-files/27brew2-video-slide-4.jpg": {
+		"ft": 16384,
+		"iS": 1717670,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/design-files/27brew2-video-slide-4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/design-files/27brew2-video-slide-5.jpg": {
+		"ft": 16384,
+		"iS": 1727581,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/design-files/27brew2-video-slide-5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/design-files/27brew2-video-slide.jpg": {
+		"ft": 16384,
+		"iS": 1823885,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/design-files/27brew2-video-slide.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"/design-files/31154117657_5acb3327cd_o.jpg": {
 		"ft": 16384,
@@ -62,12 +124,139 @@
 		"oAP": "/design-files/Athletics_BF-hp-logo.psd",
 		"oF": 0
 		},
+	"/design-files/Brew2Large.mp4": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/design-files/Brew2Large.mp4",
+		"oF": 0
+		},
 	"/design-files/holiday-background.psd": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "/design-files/holiday-background.psd",
 		"oF": 0
+		},
+	"/design-files/re27brew2timeline/27brew2-video-slide-still.ai": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/design-files/re27brew2timeline/27brew2-video-slide-still.ai",
+		"oF": 0
+		},
+	"/design-files/re27brew2timeline/athletics-vimeo-placeholder.jpg": {
+		"ft": 16384,
+		"iS": 140096,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/design-files/re27brew2timeline/athletics-vimeo-placeholder.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/design-files/re27brew2timeline/Athletics_BF-hp-logo-2x1.psd": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/design-files/re27brew2timeline/Athletics_BF-hp-logo-2x1.psd",
+		"oF": 0
+		},
+	"/design-files/re27brew2timeline/Athletics_BF-hp-logo-edit5.jpg": {
+		"ft": 16384,
+		"iS": 1830367,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/design-files/re27brew2timeline/Athletics_BF-hp-logo-edit5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/design-files/re27brew2timeline/Athletics_BF-hp-logo-edit7.jpg": {
+		"ft": 16384,
+		"iS": 1844714,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/design-files/re27brew2timeline/Athletics_BF-hp-logo-edit7.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/design-files/re27brew2timeline/Athletics_BF-hp-logo.psd": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "/design-files/re27brew2timeline/Athletics_BF-hp-logo.psd",
+		"oF": 0
+		},
+	"/design-files/re27brew2timeline/brew2logo9.png": {
+		"ft": 32768,
+		"iS": 106603,
+		"oA": 0,
+		"oAP": "/design-files/re27brew2timeline/brew2logo9.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/design-files/screen-shot-test-5.jpg": {
+		"ft": 16384,
+		"iS": 731603,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/design-files/screen-shot-test-5.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/design-files/Team3.jpg": {
+		"ft": 16384,
+		"iS": 2066814,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/design-files/Team3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/design-files/Team4.jpg": {
+		"ft": 16384,
+		"iS": 2117236,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/design-files/Team4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/design-files/video-screengrab.jpeg": {
+		"ft": 16384,
+		"iS": 2170313,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/design-files/video-screengrab.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images/190207-Brew2-The-Challenge-Returns-thumb.jpg": {
+		"ft": 16384,
+		"iS": 40692,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/190207-Brew2-The-Challenge-Returns-thumb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"/images/_notes/dwsync.xml": {
 		"cB": 0,
@@ -320,7 +509,7 @@
 		},
 	"/images/campuslife-0124_15_05_HW_2315.jpg": {
 		"ft": 16384,
-		"iS": 134795,
+		"iS": 131072,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/images/campuslife-0124_15_05_HW_2315.jpg",
@@ -694,7 +883,7 @@
 		},
 	"/images/home-section-academic-b.jpg": {
 		"ft": 16384,
-		"iS": 217553,
+		"iS": 170813,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/images/home-section-academic-b.jpg",
@@ -727,7 +916,7 @@
 		},
 	"/images/home-section-arts-b.jpg": {
 		"ft": 16384,
-		"iS": 130386,
+		"iS": 157718,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/images/home-section-arts-b.jpg",
@@ -793,7 +982,7 @@
 		},
 	"/images/home-section-campuslife-b.jpg": {
 		"ft": 16384,
-		"iS": 140820,
+		"iS": 138063,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/images/home-section-campuslife-b.jpg",
@@ -870,7 +1059,7 @@
 		},
 	"/images/home-section-slideshow-alumnaei-ifill.jpg": {
 		"ft": 16384,
-		"iS": 103978,
+		"iS": 73422,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/images/home-section-slideshow-alumnaei-ifill.jpg",
@@ -1057,7 +1246,7 @@
 		},
 	"/images/home-slideshow-make-impact.jpg": {
 		"ft": 16384,
-		"iS": 76696,
+		"iS": 77426,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/images/home-slideshow-make-impact.jpg",
@@ -1416,7 +1605,7 @@
 		},
 	"/images/page-menu-icon-hover-focus.png": {
 		"ft": 32768,
-		"iS": 1659,
+		"iS": 557,
 		"oA": 0,
 		"oAP": "/images/page-menu-icon-hover-focus.png",
 		"oF": 0,
@@ -1515,7 +1704,7 @@
 		},
 	"/images/Vassar-logo-sentence-case.png": {
 		"ft": 32768,
-		"iS": 17257,
+		"iS": 17249,
 		"oA": 0,
 		"oAP": "/images/Vassar-logo-sentence-case.png",
 		"oF": 0,
