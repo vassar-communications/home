@@ -101,6 +101,9 @@
         position: relative;
         width: 85%;
     }
+    .u-Video {
+        margin: 0;
+    }
     @media all and (min-width: 50em) {
         .Module__listItem:first-child,
         .Module__listItem:nth-child(2) {
@@ -249,7 +252,7 @@
     }
 }
 .Module__fullWidthArts {
-	background: #675a46 url(../../../assets/images/home-section-arts-b.jpg) no-repeat center center;
+	background: #675a46 url(../../../assets/images/home-section-arts-c.jpg) no-repeat center center;
 	background-size: cover;
 	color: #fff;
     .Module__listItem {
@@ -373,11 +376,23 @@
 			border-radius: 0;
 		}
 	}
+    .galleria-thumbnails-container {
+        display: none;
+        visibility: hidden;
+    }
     .galleria-image-nav-left,
     .galleria-image-nav-right {
         opacity: .5;
         filter: alpha(opacity=50);
         background-position: 0 50%;
+    }
+    .videoplay .galleria-image-nav {
+        position: absolute;
+        left: 0;
+        height: 100%;
+        margin-top: 0;
+        top: 0;
+        width: 100%;
     }
     .galleria-image-nav-right {
         background-position: -255px 50%;
