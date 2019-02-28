@@ -1,6 +1,13 @@
 @import "_mixins";
 @import "_config";
 
+/* hide label on homepage but allow it on about page */
+.u-folderWeb #facts-and-stats
+{
+    display: none;
+    visibility: hidden;
+}
+
 .Module__fullWidthFacts {
     .Module__list {
         margin-top: 1%;
