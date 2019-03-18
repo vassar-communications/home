@@ -7,11 +7,12 @@
 		"uuidString": "6AA0EDC3-2146-47AF-A65D-BF3798247B87"
 		}
 	],
-"creatorBuild": "28905",
+"creatorBuild": "29156",
 "files": {
 	"/.gitattributes": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/.gitattributes",
 		"oF": 0
@@ -19,6 +20,7 @@
 	"/.gitignore": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/.gitignore",
 		"oF": 0
@@ -26,6 +28,7 @@
 	"/css/_notes/dwsync.xml": {
 		"cB": 0,
 		"ft": 8192,
+		"hM": 0,
 		"oA": 0,
 		"oAP": "/css/_notes/dwsync.xml",
 		"oF": 0
@@ -39,1808 +42,6 @@
 		"oAP": "/css/local-group-min.css",
 		"oF": 0,
 		"oS": 3
-		},
-	"/design-files/27brew2-video-slide-2.jpg": {
-		"ft": 16384,
-		"iS": 1265864,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/27brew2-video-slide-2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/27brew2-video-slide-3.jpg": {
-		"ft": 16384,
-		"iS": 1655449,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/27brew2-video-slide-3.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/27brew2-video-slide-4.jpg": {
-		"ft": 16384,
-		"iS": 1717670,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/27brew2-video-slide-4.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/27brew2-video-slide-5.jpg": {
-		"ft": 16384,
-		"iS": 1727581,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/27brew2-video-slide-5.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/27brew2-video-slide.jpg": {
-		"ft": 16384,
-		"iS": 1823885,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/27brew2-video-slide.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/31154117657_5acb3327cd_o.jpg": {
-		"ft": 16384,
-		"iS": 3597076,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/31154117657_5acb3327cd_o.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/Athletics_BF-hp-logo-edit7 (1).jpg": {
-		"ft": 16384,
-		"iS": 1844714,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/Athletics_BF-hp-logo-edit7 (1).jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/Athletics_BF-hp-logo.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/design-files/Athletics_BF-hp-logo.psd",
-		"oF": 0
-		},
-	"/design-files/Brew2Large.mp4": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/design-files/Brew2Large.mp4",
-		"oF": 0
-		},
-	"/design-files/holiday-background.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/design-files/holiday-background.psd",
-		"oF": 0
-		},
-	"/design-files/re27brew2timeline/27brew2-video-slide-still.ai": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/design-files/re27brew2timeline/27brew2-video-slide-still.ai",
-		"oF": 0
-		},
-	"/design-files/re27brew2timeline/athletics-vimeo-placeholder.jpg": {
-		"ft": 16384,
-		"iS": 140096,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/re27brew2timeline/athletics-vimeo-placeholder.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/re27brew2timeline/Athletics_BF-hp-logo-2x1.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/design-files/re27brew2timeline/Athletics_BF-hp-logo-2x1.psd",
-		"oF": 0
-		},
-	"/design-files/re27brew2timeline/Athletics_BF-hp-logo-edit5.jpg": {
-		"ft": 16384,
-		"iS": 1830367,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/re27brew2timeline/Athletics_BF-hp-logo-edit5.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/re27brew2timeline/Athletics_BF-hp-logo-edit7.jpg": {
-		"ft": 16384,
-		"iS": 1844714,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/re27brew2timeline/Athletics_BF-hp-logo-edit7.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/re27brew2timeline/Athletics_BF-hp-logo.psd": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/design-files/re27brew2timeline/Athletics_BF-hp-logo.psd",
-		"oF": 0
-		},
-	"/design-files/re27brew2timeline/brew2logo9.png": {
-		"ft": 32768,
-		"iS": 106603,
-		"oA": 0,
-		"oAP": "/design-files/re27brew2timeline/brew2logo9.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/design-files/screen-shot-test-5.jpg": {
-		"ft": 16384,
-		"iS": 731603,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/screen-shot-test-5.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/Team3.jpg": {
-		"ft": 16384,
-		"iS": 2066814,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/Team3.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/Team4.jpg": {
-		"ft": 16384,
-		"iS": 2117236,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/Team4.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/design-files/video-screengrab.jpeg": {
-		"ft": 16384,
-		"iS": 2170313,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/design-files/video-screengrab.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/190207-Brew2-The-Challenge-Returns-thumb.jpg": {
-		"ft": 16384,
-		"iS": 40692,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/190207-Brew2-The-Challenge-Returns-thumb.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/_notes/dwsync.xml": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/images/_notes/dwsync.xml",
-		"oF": 0
-		},
-	"/images/about-facts-pie-one.png": {
-		"ft": 32768,
-		"iS": 21263,
-		"oA": 0,
-		"oAP": "/images/about-facts-pie-one.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/about-facts-pie-two.png": {
-		"ft": 32768,
-		"iS": 17909,
-		"oA": 0,
-		"oAP": "/images/about-facts-pie-two.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/about-footer-bg.jpg": {
-		"ft": 16384,
-		"iS": 232642,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/about-footer-bg.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/about-header-bg.jpg": {
-		"ft": 16384,
-		"iS": 173121,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/about-header-bg.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/about-history-bg.jpg": {
-		"ft": 16384,
-		"iS": 137426,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/about-history-bg.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/about-mission-bg.png": {
-		"ft": 32768,
-		"iS": 254,
-		"oA": 0,
-		"oAP": "/images/about-mission-bg.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/about-mission.jpg": {
-		"ft": 16384,
-		"iS": 55701,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/about-mission.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/about-president.jpg": {
-		"ft": 16384,
-		"iS": 63079,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/about-president.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/about-sustainability-0127_13_09_EA_2721.jpg": {
-		"ft": 16384,
-		"iS": 154761,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/about-sustainability-0127_13_09_EA_2721.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/about-World-Cafe-1711-0153.jpg": {
-		"ft": 16384,
-		"iS": 282944,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/about-World-Cafe-1711-0153.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/academic-Thompson-Library-1512-KR-0004_edit2.jpg": {
-		"ft": 16384,
-		"iS": 167113,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/academic-Thompson-Library-1512-KR-0004_edit2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/academics-1803-takethetour.jpg": {
-		"ft": 16384,
-		"iS": 217240,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/academics-1803-takethetour.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/academics-calendar-grid.jpg": {
-		"ft": 16384,
-		"iS": 194831,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/academics-calendar-grid.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/academics-depts-Kumar-Class-12-HW-10.jpg": {
-		"ft": 16384,
-		"iS": 129265,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/academics-depts-Kumar-Class-12-HW-10.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/academics-faculty.jpg": {
-		"ft": 16384,
-		"iS": 147574,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/academics-faculty.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/academics-header-bg.jpg": {
-		"ft": 16384,
-		"iS": 121806,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/academics-header-bg.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/academics-major-minor-Lam-Class-12-HW-2.jpg": {
-		"ft": 16384,
-		"iS": 115910,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/academics-major-minor-Lam-Class-12-HW-2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/academics-rebecca-edwards.jpg": {
-		"ft": 16384,
-		"iS": 129892,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/academics-rebecca-edwards.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/academics-research-0042_12_07_MEZ_-5.jpg": {
-		"ft": 16384,
-		"iS": 102119,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/academics-research-0042_12_07_MEZ_-5.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/alert-snow-collage.jpg": {
-		"ft": 16384,
-		"iS": 470520,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/alert-snow-collage.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/background.jpg": {
-		"ft": 16384,
-		"iS": 445100,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/background.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/bg-pattern-vc-white.png": {
-		"ft": 32768,
-		"iS": 6622,
-		"oA": 0,
-		"oAP": "/images/bg-pattern-vc-white.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/campuslife-0124_15_05_HW_2315.jpg": {
-		"ft": 16384,
-		"iS": 131072,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/campuslife-0124_15_05_HW_2315.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/campuslife-acdc-7073.jpg": {
-		"ft": 16384,
-		"iS": 117577,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/campuslife-acdc-7073.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/campuslife-Candles-09-NWF_3.jpg": {
-		"ft": 16384,
-		"iS": 106103,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/campuslife-Candles-09-NWF_3.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/campuslife-diversity-Fall-Leaves-12-HW-4.jpg": {
-		"ft": 16384,
-		"iS": 174015,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/campuslife-diversity-Fall-Leaves-12-HW-4.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/campuslife-engagement-0111_17_07_KR_0065.jpg": {
-		"ft": 16384,
-		"iS": 121110,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/campuslife-engagement-0111_17_07_KR_0065.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/campuslife-header-bg-acdc-7073.jpg": {
-		"ft": 16384,
-		"iS": 99545,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/campuslife-header-bg-acdc-7073.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/campuslife-header-Quad-fall-10-JA-272_edit.jpg": {
-		"ft": 16384,
-		"iS": 107277,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/campuslife-header-Quad-fall-10-JA-272_edit.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/campuslife-inclusion-and-diversity.jpg": {
-		"ft": 16384,
-		"iS": 116222,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/campuslife-inclusion-and-diversity.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/campuslife-inclusive-0061_13_05_BL_4923.jpg": {
-		"ft": 16384,
-		"iS": 121580,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/campuslife-inclusive-0061_13_05_BL_4923.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/campuslife-leadership-0119_13_07_BL_3500.jpg": {
-		"ft": 16384,
-		"iS": 91008,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/campuslife-leadership-0119_13_07_BL_3500.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/campuslife-leadership-vassar-court-0016.jpg": {
-		"ft": 16384,
-		"iS": 113278,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/campuslife-leadership-vassar-court-0016.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/campuslife-Post-Office-0709-JA_5268.jpg": {
-		"ft": 16384,
-		"iS": 63392,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/campuslife-Post-Office-0709-JA_5268.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/campuslife-residentiallife-Coed-bathroom.jpg": {
-		"ft": 16384,
-		"iS": 140140,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/campuslife-residentiallife-Coed-bathroom.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/campuslife-safety-IMG_1858-RM.jpg": {
-		"ft": 16384,
-		"iS": 134042,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/campuslife-safety-IMG_1858-RM.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/campuslife-services-10-move-in-day-36604450551.jpg": {
-		"ft": 16384,
-		"iS": 102000,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/campuslife-services-10-move-in-day-36604450551.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/campuslife-sports-Scarlett8.jpg": {
-		"ft": 16384,
-		"iS": 146933,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/campuslife-sports-Scarlett8.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/campuslife_26A3694.jpg": {
-		"ft": 16384,
-		"iS": 122205,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/campuslife_26A3694.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/cropped-180814-community-fellows-group.jpg": {
-		"ft": 16384,
-		"iS": 148025,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/cropped-180814-community-fellows-group.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/cropped-180814-community-fellows-savannah-smith.jpg": {
-		"ft": 16384,
-		"iS": 67239,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/cropped-180814-community-fellows-savannah-smith.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/cropped-180817-bergstrom-hadley-0004.jpg": {
-		"ft": 16384,
-		"iS": 104298,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/cropped-180817-bergstrom-hadley-0004.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/cropped-180906-epi-6464.jpg": {
-		"ft": 16384,
-		"iS": 103285,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/cropped-180906-epi-6464.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/cropped-180906-epi-6886.jpg": {
-		"ft": 16384,
-		"iS": 108529,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/cropped-180906-epi-6886.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/cropped-180924-debra-elmegreen-iau.jpg": {
-		"ft": 16384,
-		"iS": 86218,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/cropped-180924-debra-elmegreen-iau.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/facebook-icon-active.png": {
-		"ft": 32768,
-		"iS": 1525,
-		"oA": 0,
-		"oAP": "/images/facebook-icon-active.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/facebook-icon-hover.png": {
-		"ft": 32768,
-		"iS": 1525,
-		"oA": 0,
-		"oAP": "/images/facebook-icon-hover.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/facebook-icon.png": {
-		"ft": 32768,
-		"iS": 1525,
-		"oA": 0,
-		"oAP": "/images/facebook-icon.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/flickr-icon-active.png": {
-		"ft": 32768,
-		"iS": 7654,
-		"oA": 0,
-		"oAP": "/images/flickr-icon-active.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/flickr-icon-hover.png": {
-		"ft": 32768,
-		"iS": 7541,
-		"oA": 0,
-		"oAP": "/images/flickr-icon-hover.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/flickr-icon.png": {
-		"ft": 32768,
-		"iS": 10851,
-		"oA": 0,
-		"oAP": "/images/flickr-icon.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/galleria-news-arrow-left.png": {
-		"ft": 32768,
-		"iS": 1333,
-		"oA": 0,
-		"oAP": "/images/galleria-news-arrow-left.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/galleria-news-arrow-right.png": {
-		"ft": 32768,
-		"iS": 1321,
-		"oA": 0,
-		"oAP": "/images/galleria-news-arrow-right.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/galleria-news-arrows-hoverfocus.png": {
-		"ft": 32768,
-		"iS": 714,
-		"oA": 0,
-		"oAP": "/images/galleria-news-arrows-hoverfocus.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/galleria-news-arrows.png": {
-		"ft": 32768,
-		"iS": 644,
-		"oA": 0,
-		"oAP": "/images/galleria-news-arrows.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/global-footer-bg.jpg": {
-		"ft": 16384,
-		"iS": 362014,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/global-footer-bg.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/home-section-academic-b.jpg": {
-		"ft": 16384,
-		"iS": 170813,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/home-section-academic-b.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/home-section-academic.jpg": {
-		"ft": 16384,
-		"iS": 134091,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/home-section-academic.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/home-section-admissions.jpg": {
-		"ft": 16384,
-		"iS": 143234,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/home-section-admissions.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/home-section-arts-b.jpg": {
-		"ft": 16384,
-		"iS": 157718,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/home-section-arts-b.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/home-section-arts.jpg": {
-		"ft": 16384,
-		"iS": 98360,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/home-section-arts.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/home-section-athletics-b.jpg": {
-		"ft": 16384,
-		"iS": 160466,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/home-section-athletics-b.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/home-section-athletics-brewer-fund-logo.png": {
-		"ft": 32768,
-		"iS": 19012,
-		"oA": 0,
-		"oAP": "/images/home-section-athletics-brewer-fund-logo.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/home-section-athletics-rugby.jpg": {
-		"ft": 16384,
-		"iS": 176347,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/home-section-athletics-rugby.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/home-section-athletics.jpg": {
-		"ft": 16384,
-		"iS": 190924,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/home-section-athletics.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/home-section-campuslife-b.jpg": {
-		"ft": 16384,
-		"iS": 138063,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/home-section-campuslife-b.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/home-section-campuslife.jpg": {
-		"ft": 16384,
-		"iS": 174015,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/home-section-campuslife.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/home-section-holiday-bg.jpg": {
-		"ft": 16384,
-		"iS": 102590,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/home-section-holiday-bg.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/home-section-pattern-vc-white.png": {
-		"ft": 32768,
-		"iS": 6622,
-		"oA": 0,
-		"oAP": "/images/home-section-pattern-vc-white.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/home-section-slideshow-alumnaei-blum.jpg": {
-		"ft": 16384,
-		"iS": 75594,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/home-section-slideshow-alumnaei-blum.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/home-section-slideshow-alumnaei-fairstein.jpg": {
-		"ft": 16384,
-		"iS": 73145,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/home-section-slideshow-alumnaei-fairstein.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/home-section-slideshow-alumnaei-goldberg.jpg": {
-		"ft": 16384,
-		"iS": 112748,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/home-section-slideshow-alumnaei-goldberg.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/home-section-slideshow-alumnaei-ifill.jpg": {
-		"ft": 16384,
-		"iS": 73422,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/home-section-slideshow-alumnaei-ifill.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/home-section-slideshow-alumnaei-meade.jpg": {
-		"ft": 16384,
-		"iS": 72617,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/home-section-slideshow-alumnaei-meade.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/home-slideshow-academics.jpg": {
-		"ft": 16384,
-		"iS": 91242,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/home-slideshow-academics.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/home-slideshow-alumnaei-a.jpg": {
-		"ft": 16384,
-		"iS": 101928,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/home-slideshow-alumnaei-a.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/home-slideshow-arts-b.jpg": {
-		"ft": 16384,
-		"iS": 136384,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/home-slideshow-arts-b.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/home-slideshow-arts.jpg": {
-		"ft": 16384,
-		"iS": 79947,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/home-slideshow-arts.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/home-slideshow-athletics-181202.jpg": {
-		"ft": 16384,
-		"iS": 182468,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/home-slideshow-athletics-181202.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/home-slideshow-athletics-a.jpg": {
-		"ft": 16384,
-		"iS": 130770,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/home-slideshow-athletics-a.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/home-slideshow-athletics-b.jpg": {
-		"ft": 16384,
-		"iS": 179091,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/home-slideshow-athletics-b.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/home-slideshow-athletics-basketball.jpg": {
-		"ft": 16384,
-		"iS": 112561,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/home-slideshow-athletics-basketball.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/home-slideshow-athletics-vassar-womens-rugby-champs-2.jpg": {
-		"ft": 16384,
-		"iS": 182468,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/home-slideshow-athletics-vassar-womens-rugby-champs-2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/home-slideshow-campus-culture.jpg": {
-		"ft": 16384,
-		"iS": 171473,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/home-slideshow-campus-culture.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/home-slideshow-campus-life-1.jpg": {
-		"ft": 16384,
-		"iS": 178522,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/home-slideshow-campus-life-1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/home-slideshow-campus-life.jpg": {
-		"ft": 16384,
-		"iS": 203351,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/home-slideshow-campus-life.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/home-slideshow-civic-engagement.jpg": {
-		"ft": 16384,
-		"iS": 150854,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/home-slideshow-civic-engagement.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/home-slideshow-faculty.jpg": {
-		"ft": 16384,
-		"iS": 124025,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/home-slideshow-faculty.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/home-slideshow-holidays-thanksgivingmenus.jpg": {
-		"ft": 16384,
-		"iS": 268901,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/home-slideshow-holidays-thanksgivingmenus.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/home-slideshow-make-impact.jpg": {
-		"ft": 16384,
-		"iS": 77426,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/home-slideshow-make-impact.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/home-slideshow-mlk.jpg": {
-		"ft": 16384,
-		"iS": 197882,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/home-slideshow-mlk.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/home-slideshow-our-campus-winter.jpg": {
-		"ft": 16384,
-		"iS": 220302,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/home-slideshow-our-campus-winter.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/home-slideshow-our-campus.jpg": {
-		"ft": 16384,
-		"iS": 107061,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/home-slideshow-our-campus.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/home-slideshow-sustainability.jpg": {
-		"ft": 16384,
-		"iS": 124071,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/home-slideshow-sustainability.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/home-slideshow-vote.png": {
-		"ft": 32768,
-		"iS": 22409,
-		"oA": 0,
-		"oAP": "/images/home-slideshow-vote.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/icons/_notes/dwsync.xml": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "/images/icons/_notes/dwsync.xml",
-		"oF": 0
-		},
-	"/images/icons/bl.png": {
-		"ft": 32768,
-		"iS": 3095,
-		"oA": 0,
-		"oAP": "/images/icons/bl.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/icons/blank.gif": {
-		"ft": 4194304,
-		"iS": 1101,
-		"oA": 0,
-		"oAP": "/images/icons/blank.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"/images/icons/close-black.gif": {
-		"ft": 4194304,
-		"iS": 2284,
-		"oA": 0,
-		"oAP": "/images/icons/close-black.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"/images/icons/close-white.gif": {
-		"ft": 4194304,
-		"iS": 2284,
-		"oA": 0,
-		"oAP": "/images/icons/close-white.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"/images/icons/facebook.gif": {
-		"ft": 4194304,
-		"iS": 2544,
-		"oA": 0,
-		"oAP": "/images/icons/facebook.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"/images/icons/fb.png": {
-		"ft": 32768,
-		"iS": 1062,
-		"oA": 0,
-		"oAP": "/images/icons/fb.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/icons/fl.png": {
-		"ft": 32768,
-		"iS": 1885,
-		"oA": 0,
-		"oAP": "/images/icons/fl.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/icons/flickr.gif": {
-		"ft": 4194304,
-		"iS": 3569,
-		"oA": 0,
-		"oAP": "/images/icons/flickr.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"/images/icons/g+.png": {
-		"ft": 32768,
-		"iS": 1797,
-		"oA": 0,
-		"oAP": "/images/icons/g+.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/icons/in.png": {
-		"ft": 32768,
-		"iS": 2729,
-		"oA": 0,
-		"oAP": "/images/icons/in.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/icons/instagram.gif": {
-		"ft": 4194304,
-		"iS": 4507,
-		"oA": 0,
-		"oAP": "/images/icons/instagram.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"/images/icons/li.png": {
-		"ft": 32768,
-		"iS": 1413,
-		"oA": 0,
-		"oAP": "/images/icons/li.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/icons/linkedin.gif": {
-		"ft": 4194304,
-		"iS": 3354,
-		"oA": 0,
-		"oAP": "/images/icons/linkedin.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"/images/icons/pn.png": {
-		"ft": 32768,
-		"iS": 22482,
-		"oA": 0,
-		"oAP": "/images/icons/pn.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/icons/sc.png": {
-		"ft": 32768,
-		"iS": 3588,
-		"oA": 0,
-		"oAP": "/images/icons/sc.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/icons/search.gif": {
-		"ft": 4194304,
-		"iS": 4048,
-		"oA": 0,
-		"oAP": "/images/icons/search.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"/images/icons/snowflakes.png": {
-		"ft": 32768,
-		"iS": 10956,
-		"oA": 0,
-		"oAP": "/images/icons/snowflakes.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/icons/tl.png": {
-		"ft": 32768,
-		"iS": 2472,
-		"oA": 0,
-		"oAP": "/images/icons/tl.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/icons/top.gif": {
-		"ft": 4194304,
-		"iS": 438,
-		"oA": 0,
-		"oAP": "/images/icons/top.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"/images/icons/tw.png": {
-		"ft": 32768,
-		"iS": 1815,
-		"oA": 0,
-		"oAP": "/images/icons/tw.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/icons/twitter.gif": {
-		"ft": 4194304,
-		"iS": 2815,
-		"oA": 0,
-		"oAP": "/images/icons/twitter.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"/images/icons/youtube.gif": {
-		"ft": 4194304,
-		"iS": 2625,
-		"oA": 0,
-		"oAP": "/images/icons/youtube.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"/images/icons/yt.png": {
-		"ft": 32768,
-		"iS": 1242,
-		"oA": 0,
-		"oAP": "/images/icons/yt.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/instagram-icon-active.png": {
-		"ft": 32768,
-		"iS": 5221,
-		"oA": 0,
-		"oAP": "/images/instagram-icon-active.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/instagram-icon-hover.png": {
-		"ft": 32768,
-		"iS": 5221,
-		"oA": 0,
-		"oAP": "/images/instagram-icon-hover.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/instagram-icon.png": {
-		"ft": 32768,
-		"iS": 5221,
-		"oA": 0,
-		"oAP": "/images/instagram-icon.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/linkedin-icon-active.png": {
-		"ft": 32768,
-		"iS": 6232,
-		"oA": 0,
-		"oAP": "/images/linkedin-icon-active.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/linkedin-icon-hover.png": {
-		"ft": 32768,
-		"iS": 6223,
-		"oA": 0,
-		"oAP": "/images/linkedin-icon-hover.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/linkedin-icon.png": {
-		"ft": 32768,
-		"iS": 6159,
-		"oA": 0,
-		"oAP": "/images/linkedin-icon.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/page-menu-icon-hover-focus.png": {
-		"ft": 32768,
-		"iS": 557,
-		"oA": 0,
-		"oAP": "/images/page-menu-icon-hover-focus.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/page-menu-icon.png": {
-		"ft": 32768,
-		"iS": 1647,
-		"oA": 0,
-		"oAP": "/images/page-menu-icon.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/socialmedia-header-bg.jpg": {
-		"ft": 16384,
-		"iS": 80523,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/socialmedia-header-bg.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/twitter-icon-active.png": {
-		"ft": 32768,
-		"iS": 2259,
-		"oA": 0,
-		"oAP": "/images/twitter-icon-active.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/twitter-icon-hover.png": {
-		"ft": 32768,
-		"iS": 2259,
-		"oA": 0,
-		"oAP": "/images/twitter-icon-hover.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/twitter-icon.png": {
-		"ft": 32768,
-		"iS": 2259,
-		"oA": 0,
-		"oAP": "/images/twitter-icon.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/vassar-college.jpg": {
-		"ft": 16384,
-		"iS": 89493,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/vassar-college.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/vassar-logo-active.png": {
-		"ft": 32768,
-		"iS": 7589,
-		"oA": 0,
-		"oAP": "/images/vassar-logo-active.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/vassar-logo-hover.png": {
-		"ft": 32768,
-		"iS": 7589,
-		"oA": 0,
-		"oAP": "/images/vassar-logo-hover.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/Vassar-logo-sentence-case.png": {
-		"ft": 32768,
-		"iS": 17249,
-		"oA": 0,
-		"oAP": "/images/Vassar-logo-sentence-case.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/vassar-logo.png": {
-		"ft": 32768,
-		"iS": 7589,
-		"oA": 0,
-		"oAP": "/images/vassar-logo.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/vassar.gif": {
-		"ft": 4194304,
-		"iS": 5752,
-		"oA": 0,
-		"oAP": "/images/vassar.gif",
-		"oF": 0,
-		"opt": 0
-		},
-	"/images/vc-alums-homepage-duggal.jpg": {
-		"ft": 16384,
-		"iS": 186669,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/vc-alums-homepage-duggal.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/vc-alums-homepage-dumlao.jpg": {
-		"ft": 16384,
-		"iS": 213383,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/vc-alums-homepage-dumlao.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/vc-alums-homepage-lowe.jpg": {
-		"ft": 16384,
-		"iS": 154736,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/vc-alums-homepage-lowe.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/vc-alums-homepage-nixon.jpg": {
-		"ft": 16384,
-		"iS": 167970,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/vc-alums-homepage-nixon.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/vc-alums-homepage-stein-gottlieb.jpg": {
-		"ft": 16384,
-		"iS": 214930,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/vc-alums-homepage-stein-gottlieb.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/vc-alums-homepage-stjohn.jpg": {
-		"ft": 16384,
-		"iS": 180376,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/vc-alums-homepage-stjohn.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/vc-alums-homepage-wu.jpg": {
-		"ft": 16384,
-		"iS": 168291,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/vc-alums-homepage-wu.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/youtube-icon-active.png": {
-		"ft": 32768,
-		"iS": 7608,
-		"oA": 0,
-		"oAP": "/images/youtube-icon-active.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/youtube-icon-hover.png": {
-		"ft": 32768,
-		"iS": 7580,
-		"oA": 0,
-		"oAP": "/images/youtube-icon-hover.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
-		},
-	"/images/youtube-icon.png": {
-		"ft": 32768,
-		"iS": 7532,
-		"oA": 0,
-		"oAP": "/images/youtube-icon.png",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"oT": 1,
-		"q": 100
 		},
 	"/sass/_config.scss": {
 		"aP": 0,
@@ -1976,6 +177,12 @@
 		"function-sent": {
 			"active": 0
 			},
+		"inline-consecutive-adds": {
+			"active": 0
+			},
+		"inline-environment-variables": {
+			"active": 0
+			},
 		"instanceof": {
 			"active": 0
 			},
@@ -1995,6 +202,36 @@
 			"active": 0
 			},
 		"minify-booleans": {
+			"active": 0
+			},
+		"minify-builtins": {
+			"active": 0
+			},
+		"minify-constant-folding": {
+			"active": 0
+			},
+		"minify-dead-code-elimination": {
+			"active": 0
+			},
+		"minify-flip-comparisons": {
+			"active": 0
+			},
+		"minify-guarded-expressions": {
+			"active": 0
+			},
+		"minify-infinity": {
+			"active": 0
+			},
+		"minify-mangle-names": {
+			"active": 0
+			},
+		"minify-numeric-literals": {
+			"active": 0
+			},
+		"minify-simplify": {
+			"active": 0
+			},
+		"minify-type-constructors": {
 			"active": 0
 			},
 		"modules-amd": {
@@ -2045,6 +282,9 @@
 		"pipeline-operator": {
 			"active": 0
 			},
+		"private-methods": {
+			"active": 0
+			},
 		"property-literals": {
 			"active": 0
 			},
@@ -2078,10 +318,16 @@
 		"regenerator": {
 			"active": 0
 			},
+		"regexp-constructors": {
+			"active": 0
+			},
 		"remove-console": {
 			"active": 0
 			},
 		"remove-debugger": {
+			"active": 0
+			},
+		"remove-undefined": {
 			"active": 0
 			},
 		"reserved-words": {
@@ -3030,6 +1276,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-useless-catch": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-useless-computed-key": {
 			"active": 0,
 			"optionString": ""
@@ -3692,6 +1942,7 @@
 		"noEscapeInAttributes": 0,
 		"outputFormat": 2,
 		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0,
 		"useCDATA": 0,
 		"useDoubleQuotes": 0,
 		"useUnixNewlines": 0
@@ -3713,6 +1964,7 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 2,
+		"bundleFormat": 0,
 		"createSourceMap": 0,
 		"minifyOutput": 1,
 		"syntaxCheckerStyle": 1,
@@ -3735,7 +1987,8 @@
 		"autoOutputPathReplace1": "kit",
 		"autoOutputPathReplace2": "html",
 		"autoOutputPathStyle": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsLESS": {
 		"allowInsecureImports": 0,
@@ -3774,6 +2027,7 @@
 		"processHTML": 0,
 		"randomFootnoteNumbers": 0,
 		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0,
 		"useCompatibilityMode": 0
 		},
 	"languageDefaultsOTHER": {
@@ -3783,7 +2037,8 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsPNG": {
 		"autoOutputAction": 0,
@@ -3804,7 +2059,8 @@
 		"autoOutputPathStyle": 0,
 		"compileDebug": 1,
 		"outputStyle": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsSASS": {
 		"autoOutputAction": 0,
@@ -3833,7 +2089,8 @@
 		"outputFormat": 0,
 		"outputStyle": 1,
 		"railsCompatible": 0,
-		"shouldRunCacheBuster": 0
+		"shouldRunCacheBuster": 0,
+		"shouldRunHTMLMinifier": 0
 		},
 	"languageDefaultsSTYLUS": {
 		"autoOutputAction": 0,
@@ -3921,16 +2178,20 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"ascii_only": {
-			"active": 0,
+		"arrows": {
+			"active": 1,
 			"flagValue": -1
 			},
-		"bare_returns": {
+		"ascii_only": {
 			"active": 0,
 			"flagValue": -1
 			},
 		"booleans": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"booleans_as_integers": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"braces": {
@@ -3942,14 +2203,14 @@
 			"flagValue": -1
 			},
 		"comments": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"comparisons": {
 			"active": 1,
 			"flagValue": -1
 			},
-		"compress": {
+		"computed_props": {
 			"active": 1,
 			"flagValue": -1
 			},
@@ -3972,6 +2233,10 @@
 		"drop_debugger": {
 			"active": 1,
 			"flagValue": -1
+			},
+		"ecma": {
+			"active": 1,
+			"flagValue": 5
 			},
 		"eval": {
 			"active": 0,
@@ -3997,10 +2262,6 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"html5_comments": {
-			"active": 1,
-			"flagValue": -1
-			},
 		"ie8": {
 			"active": 0,
 			"flagValue": -1
@@ -4009,13 +2270,13 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"indent-start": {
-			"active": 0,
-			"flagValue": 0
-			},
 		"indent_level": {
 			"active": 0,
 			"flagValue": 4
+			},
+		"indent_start": {
+			"active": 0,
+			"flagValue": 0
 			},
 		"inline": {
 			"active": 1,
@@ -4027,6 +2288,10 @@
 			},
 		"join_vars": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"keep_classnames": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"keep_fargs": {
@@ -4049,13 +2314,13 @@
 			"active": 1,
 			"flagValue": -1
 			},
-		"mangle": {
-			"active": 1,
-			"flagValue": -1
-			},
 		"max_line_len": {
 			"active": 1,
 			"flagValue": 32000
+			},
+		"module": {
+			"active": 0,
+			"flagValue": -1
 			},
 		"negate_iife": {
 			"active": 1,
@@ -4064,10 +2329,6 @@
 		"passes": {
 			"active": 1,
 			"flagValue": 1
-			},
-		"preserve_line": {
-			"active": 0,
-			"flagValue": -1
 			},
 		"properties": {
 			"active": 1,
@@ -4091,6 +2352,10 @@
 			},
 		"reduce_vars": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"safari10": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"semicolons": {
@@ -4125,6 +2390,10 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"unsafe_arrows": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"unsafe_comps": {
 			"active": 0,
 			"flagValue": -1
@@ -4134,6 +2403,10 @@
 			"flagValue": -1
 			},
 		"unsafe_math": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"unsafe_methods": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -4161,15 +2434,12 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"width": {
-			"active": 1,
-			"flagValue": 80
-			},
 		"wrap_iife": {
 			"active": 0,
 			"flagValue": -1
 			}
 		},
+	"uglifyMangleNames": 1,
 	"uglifyReservedNamesString": "$",
 	"websiteRelativeRoot": ""
 	},
