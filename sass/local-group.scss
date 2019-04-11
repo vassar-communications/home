@@ -338,6 +338,9 @@
 .galleria-info-description {
     display: inline;
 }
+.u-Gallery__slideAttribution {
+    margin-top: .5em;
+}
 @media screen {
     .galleria {
        padding-bottom: 13em;
@@ -545,7 +548,7 @@
 }
 @media screen {
     .u-ArticleGroup.u-ArticleGroup--newsSlider {
-        margin: 2em auto 3em;
+        margin: 3% auto 0;
         width: 100%;
         .u-ArticleListItem__summary,
         .u-ArticleListItem__label {
@@ -600,7 +603,7 @@
 }
 @media all and (min-width: $small) {
     .u-ArticleGroup.u-ArticleGroup--newsSlider {
-        margin: 3em auto 2em;
+        margin: 3% auto 0;
     }
 }
 @media all and (min-width: 67.5em) {
@@ -776,7 +779,7 @@
     }
 }
 .items__nav {
-    margin:0 0 2em 0;
+    margin:0 0 3em 0;
     padding:0;
     text-align:center;
     .items__tab {
@@ -841,6 +844,37 @@
     }
 }
 
+.u-ArticleGroup.u-ArticleGroup--newsSlider .Module__title,
+.Module__fullWidthInTheMedia h2.Module__header {
+    font-size: 3rem;
+    margin: 0 25%;
+    border: none;
+    padding: .75em 0 .25em;
+    a, a:visited {
+        @include link-colors($fontColor, $linkColorHoverFocus, $linkColorActive, $fontColor, $linkColorHoverFocus);
+        border-bottom: 1px solid #fff;
+        &:after {
+            content: "\2023";
+            margin-left: .25em;
+            font-size: .5em;
+        }
+    }
+    a:hover {
+        border-bottom: 1px solid $linkColorHoverFocus;
+
+    }
+    a:focus {
+        border-bottom: 1px solid $linkColorHoverFocus;
+
+    }
+    a:active {
+        border-bottom: 1px solid $linkColorActive;
+
+    }
+}
+.u-ArticleGroup.u-ArticleGroup--newsSlider .Module__title {
+    padding: 0;
+}
 
 /*	******************
 	Fancy-facts
