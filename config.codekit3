@@ -25,6 +25,24 @@
 		"oAP": "/.gitignore",
 		"oF": 0
 		},
+	"/css/_notes/dwsync.xml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/css/_notes/dwsync.xml",
+		"oF": 0
+		},
+	"/css/events.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "/css/events-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"/css/local-group.css": {
 		"aP": 1,
 		"bl": 0,
@@ -34,6 +52,36 @@
 		"oAP": "/css/local-group-min.css",
 		"oF": 0,
 		"oS": 3
+		},
+	"/images/_notes/dwsync.xml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/images/_notes/dwsync.xml",
+		"oF": 0
+		},
+	"/images/arts-film-bg.jpg": {
+		"ft": 16384,
+		"iS": 154045,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/arts-film-bg.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/images/arts-theater-bg.jpg": {
+		"ft": 16384,
+		"iS": 131072,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/images/arts-theater-bg.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
 		},
 	"/sass/_config.scss": {
 		"aP": 0,
