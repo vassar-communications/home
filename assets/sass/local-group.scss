@@ -395,7 +395,13 @@
     .galleria-image-nav-right {
         opacity: .5;
         filter: alpha(opacity=50);
-        background-position: 0 50%;
+        background-position: 20px 50%;
+    }
+    .galleria-image-nav-left {
+        left: 0 !important;
+    }
+    .galleria-image-nav-right {
+        right: 0 !important;
     }
     .videoplay .galleria-image-nav {
         position: absolute;
@@ -406,13 +412,13 @@
         width: 100%;
     }
     .galleria-image-nav-right {
-        background-position: -255px 50%;
+        background-position: -275px 50%;
     }
     .galleria-container.notouch:hover .galleria-image-nav-right, .galleria-container.touch:active .galleria-image-nav-right {
-        background-position: -255px 50%;
+        background-position: -280px 50%;
     }
     .galleria-container.notouch:hover .galleria-image-nav-left, .galleria-container.touch:active .galleria-image-nav-left {
-        background-position: 0 50%;
+        background-position: 25px 50%;
     }
     .Module__fullWidthNews {
         overflow: visible;

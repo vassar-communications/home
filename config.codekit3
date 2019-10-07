@@ -7,7 +7,7 @@
 		"uuidString": "6AA0EDC3-2146-47AF-A65D-BF3798247B87"
 		}
 	],
-"creatorBuild": "29156",
+"creatorBuild": "31491",
 "files": {
 	"/.gitattributes": {
 		"cB": 0,
@@ -25,65 +25,25 @@
 		"oAP": "/.gitignore",
 		"oF": 0
 		},
-	"/css/_notes/dwsync.xml": {
+	"/assets/css/_notes/dwsync.xml": {
 		"cB": 0,
 		"ft": 8192,
 		"hM": 0,
 		"oA": 0,
-		"oAP": "/css/_notes/dwsync.xml",
+		"oAP": "/assets/css/_notes/dwsync.xml",
 		"oF": 0
 		},
-	"/css/events.css": {
+	"/assets/css/local-group.css": {
 		"aP": 1,
 		"bl": 0,
 		"ft": 16,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/css/events-min.css",
+		"oAP": "/assets/css/local-group-min.css",
 		"oF": 0,
 		"oS": 3
 		},
-	"/css/local-group.css": {
-		"aP": 1,
-		"bl": 0,
-		"ft": 16,
-		"ma": 0,
-		"oA": 0,
-		"oAP": "/css/local-group-min.css",
-		"oF": 0,
-		"oS": 3
-		},
-	"/images/_notes/dwsync.xml": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/images/_notes/dwsync.xml",
-		"oF": 0
-		},
-	"/images/arts-film-bg.jpg": {
-		"ft": 16384,
-		"iS": 154045,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/arts-film-bg.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/images/arts-theater-bg.jpg": {
-		"ft": 16384,
-		"iS": 131072,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/images/arts-theater-bg.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 1,
-		"q": 100
-		},
-	"/sass/_config.scss": {
+	"/assets/sass/_config.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -91,12 +51,12 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/css/_config.css",
+		"oAP": "/assets/css/_config.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"/sass/_mixins.scss": {
+	"/assets/sass/_mixins.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
@@ -104,20 +64,20 @@
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
-		"oAP": "/css/_mixins.css",
+		"oAP": "/assets/css/_mixins.css",
 		"oF": 0,
 		"oS": 0,
 		"uL": 1
 		},
-	"/sass/local-group.scss": {
-		"aP": 1,
+	"/assets/sass/local-group.scss": {
+		"aP": 0,
 		"bl": 0,
 		"dP": 10,
 		"dS": 0,
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
-		"oAP": "/css/local-group.css",
+		"oAP": "/assets/css/local-group.css",
 		"oF": 0,
 		"oS": 3,
 		"uL": 1
@@ -136,6 +96,7 @@
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
+	"allowInjectionReloads": 1,
 	"alwaysUseExternalServer": 0,
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
@@ -147,6 +108,7 @@
 	"babelConfigType": 0,
 	"babelCustomPluginsList": "",
 	"babelCustomPresetsList": "",
+	"babelExcludeString": "/\\/node_modules\\//, /\\/core-js\\//, /\\/bower_components\\//",
 	"babelInsertModuleIDs": 0,
 	"babelModuleID": "",
 	"babelNoComments": 0,
@@ -286,6 +248,9 @@
 		"modules-umd": {
 			"active": 0
 			},
+		"named-capturing-groups-regex": {
+			"active": 0
+			},
 		"new-target": {
 			"active": 0
 			},
@@ -317,6 +282,9 @@
 			"active": 0
 			},
 		"parameters": {
+			"active": 0
+			},
+		"partial-application": {
 			"active": 0
 			},
 		"pipeline-operator": {
@@ -411,11 +379,10 @@
 			}
 		},
 	"babelRetainLines": 0,
+	"babelUseBuiltInsType": 0,
 	"bowerAbbreviatedPath": "bower_components",
-	"bowerAutoCreateInfoFile": 1,
-	"bowerInstallDevDependencies": 0,
-	"bowerSaveDependencies": 1,
-	"bowerSaveDevDependencies": 0,
+	"bowerForceLatestOnConflict": 1,
+	"bowerTargetDependencyListType": 1,
 	"bowerUseExactVersion": 0,
 	"browserRefreshDelay": 0,
 	"browserslistString": ">0.2%, last 2 versions, Firefox ESR, not dead",
@@ -1420,6 +1387,10 @@
 			"active": 0,
 			"optionString": "{'array': true, 'object': true}, {'enforceForRenamedProperties': false}"
 			},
+		"prefer-named-capture-group": {
+			"active": 0,
+			"optionString": ""
+			},
 		"prefer-numeric-literals": {
 			"active": 0,
 			"optionString": ""
@@ -2173,6 +2144,11 @@
 		},
 	"languageDefaultsUserDefined": [
 		],
+	"npmAbbreviatedPath": "",
+	"npmCreatePackageLock": 1,
+	"npmInstallOptionalDependencies": 0,
+	"npmSaveExactVersion": 0,
+	"npmTargetDependencyListType": 1,
 	"overrideExternalServerCSS": 0,
 	"previewPathAddition": "",
 	"skippedFoldersString": "log, _logs, logs, _cache, cache, .idea, /storage/framework/sessions, node_modules",
