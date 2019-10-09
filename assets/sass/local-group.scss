@@ -395,14 +395,14 @@
     .galleria-image-nav-right {
         opacity: .5;
         filter: alpha(opacity=50);
-        background-position: 20px 50%;
+        background-position: 0 50%;
     }
-    .galleria-image-nav-left {
+    /*.galleria-image-nav-left {
         left: 0 !important;
     }
     .galleria-image-nav-right {
         right: 0 !important;
-    }
+    }*/
     .videoplay .galleria-image-nav {
         position: absolute;
         left: 0;
@@ -411,17 +411,45 @@
         top: 0;
         width: 100%;
     }
-    .galleria-image-nav-right {
-        background-position: -275px 50%;
+    /*.galleria-image-nav-right {
+        background-position: -255px 50%;
     }
     .galleria-container.notouch:hover .galleria-image-nav-right, .galleria-container.touch:active .galleria-image-nav-right {
-        background-position: -280px 50%;
+        background-position: -255px 50%;
     }
     .galleria-container.notouch:hover .galleria-image-nav-left, .galleria-container.touch:active .galleria-image-nav-left {
-        background-position: 25px 50%;
-    }
+        background-position: 0 50%;
+    }*/
     .Module__fullWidthNews {
         overflow: visible;
+    }
+    .galleria-image-nav-right,
+    .galleria-container.notouch:focus .galleria-image-nav-right,
+    .galleria-container.notouch:hover .galleria-image-nav-right,
+    .galleria-container.touch:active .galleria-image-nav-right
+    {
+        background-position: -275px 50% !important;
+        right: 0 !important;
+    }
+    .galleria-image-nav-left,
+    .galleria-container.notouch:focus .galleria-image-nav-left,
+    .galleria-container.notouch:hover .galleria-image-nav-left,
+    .galleria-container.touch:active .galleria-image-nav-left
+    {
+        background-position: 25px 50%;
+        left: 0 !important;
+    }
+    .galleria-container.notouch .galleria-image-nav-right:focus,
+    .galleria-container.notouch .galleria-image-nav-right:hover,
+    .galleria-container.touch .galleria-image-nav-right:active
+    {
+        background-position: -270px 50% !important;
+    }
+    .galleria-container.notouch .galleria-image-nav-left:focus,
+    .galleria-container.notouch .galleria-image-nav-left:hover,
+    .galleria-container.touch .galleria-image-nav-left:active
+    {
+        background-position: 20px 50%;
     }
 }
 @media all and (min-width: $small) {    
