@@ -1277,3 +1277,48 @@ $color-text: $maroonPresidents; // #861F41;
 .ac-NavAnchor--top {
 	z-index: 20;
 }
+
+/* 20191101 Galleria arrows fold in when there's time */
+.galleria-image-nav-left, .galleria-image-nav-right {
+    width: 8%;
+    z-index: 3;
+    opacity: 1;
+    filter: alpha(opacity=100);
+}
+.galleria-image-nav-right {
+    background-image: url(/assets/images/galleria/galleria-arrows-right.png);
+    background-size: 25px;
+}
+.galleria-image-nav-left {
+    background-image: url(/assets/images/galleria/galleria-arrows-left.png);
+    background-size: 25px;
+}
+@media (min-width: 56.25em) {
+    .galleria-image-nav-left, .galleria-image-nav-right {
+        width: 3.5%;
+    }
+    .galleria-image-nav-right {
+        background-image: url(/assets/images/galleria/galleria-arrows-right.png);
+        background-size: 32px;
+    }
+    .galleria-image-nav-left {
+        background-image: url(/assets/images/galleria/galleria-arrows-left.png);
+        background-size: 32px;
+    }
+}
+.galleria-container.notouch .galleria-image-nav-left:focus, .galleria-container.notouch .galleria-image-nav-left:hover, .galleria-container.touch .galleria-image-nav-left:active {
+    background-position: 100% 50%;
+}
+.galleria-image-nav-left, .galleria-container.notouch:focus .galleria-image-nav-left, .galleria-container.notouch:hover .galleria-image-nav-left, .galleria-container.touch:active .galleria-image-nav-left {
+    background-position: 100% 50%;
+    left: 0 !important;
+}
+.galleria-container.notouch .galleria-image-nav-left:focus, .galleria-container.notouch .galleria-image-nav-left:hover, .galleria-container.touch .galleria-image-nav-left:active {
+    background-position: 80% 50%;
+}
+.galleria-image-nav-right, .galleria-container.notouch:focus .galleria-image-nav-right, .galleria-container.notouch:hover .galleria-image-nav-right, .galleria-container.touch:active .galleria-image-nav-right {
+    background-position: 0 50% !important;
+}
+.galleria-container.notouch .galleria-image-nav-right:focus, .galleria-container.notouch .galleria-image-nav-right:hover, .galleria-container.touch .galleria-image-nav-right:active {
+    background-position: 20% 50% !important;
+}
