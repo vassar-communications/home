@@ -143,7 +143,7 @@
     .Module__header {
         color: $greyPantone410 !important;
     }
-    background: #d4cfce url(../../../assets/images/home-section-pattern-vc-white.png) repeat;
+    background: #d4cfce url(../../assets/images/sections/general/home-section-pattern-vc-white.png) repeat;
     background-size: 9em;
     .Module__listItem:nth-child(3) .Module__desc {
         padding-bottom: 0;
@@ -212,7 +212,7 @@
             width: 50%;
             max-width: 100%;
 //            background-color: #00000096;
-            background: rgba(0,0,0,0.65);
+            background: rgba(0,0,0,0.8);
         }
     }
     .Module__fullWidthAcademicsFaculty,
@@ -244,7 +244,7 @@
 	}
 }
 .Module__fullWidthAcademicsFaculty {
-	background: #675a46 url(../../../assets/images/home-section-academic-b.jpg) no-repeat center center;
+	background: #675a46 url(../../assets/images/sections/academics/home-section-academic-b.jpg) no-repeat center center;
 	background-size: cover;
 	color: #fff;
     .Module__listItem {
@@ -252,15 +252,15 @@
     }
 }
 .Module__fullWidthCampuslife {
-	background: #675a46 url(../../../assets/images/home-section-campuslife-b.jpg) no-repeat center center;
+	background: #675a46 url(../../assets/images/sections/campus-life/110619_160over90_Vassar_5260.jpg) no-repeat center center;
 	background-size: cover;
 	color: #fff;
     .Module__listItem {
-        background-color: rgba(0, 0, 0, 0.65);
+        background-color: rgba(0, 0, 0, 0.8);
     }
 }
 .Module__fullWidthArts {
-    background: #675a46 url(../../../assets/images/home-section-arts-louise-bourgeois-2.jpg) no-repeat center center;
+    background: #675a46 url(../../assets/images/sections/arts/home-section-arts-louise-bourgeois-2.jpg) no-repeat center center;
 	background-size: cover;
 	color: #fff;
     .Module__listItem {
@@ -858,14 +858,13 @@
     .Module__title {
         margin-bottom: 0;
     }
-	background: #746661 url(../../../assets/images/home-section-holiday-bg.jpg) no-repeat;
+	background: #746661 url(../../assets/images/sections/holidays/home-section-holiday-bg.jpg) no-repeat;
     color: #fff;
     background-size: cover;
     border-bottom: .5em solid #fff;
 }
 @media all and (min-width: $small) { 
    .galleria {
-       /* background: #746661 url(../../../assets/images/home-section-holiday-bg.jpg) no-repeat; */
        background-size: cover;
        border-bottom: .5em solid #fff;
     }
