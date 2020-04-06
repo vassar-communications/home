@@ -211,17 +211,17 @@
         .Module__listItem {
             width: 50%;
             max-width: 100%;
-//            background-color: #00000096;
             background: rgba(0,0,0,0.8);
         }
     }
     .Module__fullWidthAcademicsFaculty,
     .Module__fullWidthCampuslife {
         .Module__listItem {
-            right: 3%;
-            left: auto;
+            left: 3%;
+            right: auto;
         }
     }
+	
     .Module__fullWidthAthletics {
         .u-Figure .u-Figure__caption {
             position: absolute;
@@ -244,11 +244,11 @@
 	}
 }
 .Module__fullWidthAcademicsFaculty {
-	background: #675a46 url(../../assets/images/sections/academics/home-section-academic-b.jpg) no-repeat center center;
+	background: #675a46 url(../../assets/images/sections/academics/home-section-academic-a.jpg) no-repeat center center;
 	background-size: cover;
 	color: #fff;
     .Module__listItem {
-        background-color: rgba(0, 0, 0, 0.65);
+        background-color: rgba(0, 0, 0, 0.8);
     }
 }
 .Module__fullWidthCampuslife {
@@ -260,11 +260,11 @@
     }
 }
 .Module__fullWidthArts {
-    background: #675a46 url(../../assets/images/sections/arts/home-section-arts-louise-bourgeois-2.jpg) no-repeat center center;
+    background: #675a46 url(../../assets/images/sections/arts/kunz-von-der-rosen-met-DP822160.jpg) no-repeat top left;
 	background-size: cover;
 	color: #fff;
     .Module__listItem {
-        background-color: rgba(0, 0, 0, 0.65);
+        background-color: rgba(0, 0, 0, 0.8);
     }
 }
 .Module__fullWidthFacts .Module__desc .moreLink, .Module__fullWidthFacts .Module__desc .moreLink:visited {

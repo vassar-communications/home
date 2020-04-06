@@ -43,6 +43,28 @@
 		"oAP": "/assets/images/_notes/dwsync.xml",
 		"oF": 0
 		},
+	"/assets/images/home-section-admissions-2020.jpg": {
+		"ft": 16384,
+		"iS": 113928,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/images/home-section-admissions-2020.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/assets/images/home-section-admissions.jpg": {
+		"ft": 16384,
+		"iS": 143234,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/images/home-section-admissions.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
 	"/assets/images/home-section-arts-louise-bourgeois-2.jpg": {
 		"ft": 16384,
 		"iS": 0,
@@ -65,12 +87,64 @@
 		"opt": 0,
 		"q": 100
 		},
+	"/assets/images/sections/academics/_notes/dwsync.xml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/assets/images/sections/academics/_notes/dwsync.xml",
+		"oF": 0
+		},
+	"/assets/images/sections/academics/home-section-academic-a.jpg": {
+		"ft": 16384,
+		"iS": 188133,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/images/sections/academics/home-section-academic-a.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"/assets/images/sections/academics/home-section-academic-b.jpg": {
 		"ft": 16384,
 		"iS": 217553,
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/images/sections/academics/home-section-academic-b.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/images/sections/arts/kunz-von-der-0rosen-met-DP822160.jpg": {
+		"ft": 16384,
+		"iS": 4497047,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/images/sections/arts/kunz-von-der-0rosen-met-DP822160.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/images/sections/arts/kunz-von-der-rosen-met-DP822160-crop.jpg": {
+		"ft": 16384,
+		"iS": 390380,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/images/sections/arts/kunz-von-der-rosen-met-DP822160-crop.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/assets/images/sections/arts/kunz-von-der-rosen-met-DP822160.jpg": {
+		"ft": 16384,
+		"iS": 157554,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/images/sections/arts/kunz-von-der-rosen-met-DP822160.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
