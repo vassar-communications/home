@@ -7,7 +7,7 @@
 		"uuidString": "6AA0EDC3-2146-47AF-A65D-BF3798247B87"
 		}
 	],
-"creatorBuild": "31934",
+"creatorBuild": "32186",
 "files": {
 	"/.gitattributes": {
 		"cB": 0,
@@ -25,6 +25,14 @@
 		"oAP": "/.gitignore",
 		"oF": 0
 		},
+	"/_notes/dwsync.xml": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/_notes/dwsync.xml",
+		"oF": 0
+		},
 	"/assets/css/local-group.css": {
 		"aP": 1,
 		"bl": 0,
@@ -35,13 +43,27 @@
 		"oF": 0,
 		"oS": 3
 		},
-	"/assets/images/_notes/dwsync.xml": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
+	"/assets/images/global-footer-bg-fade.jpg": {
+		"ft": 16384,
+		"iS": 202236,
+		"jF": 0,
 		"oA": 0,
-		"oAP": "/assets/images/_notes/dwsync.xml",
-		"oF": 0
+		"oAP": "/assets/images/global-footer-bg-fade.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/assets/images/global-footer-bg.jpg": {
+		"ft": 16384,
+		"iS": 276356,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/assets/images/global-footer-bg.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"/assets/images/home-section-admissions-2020.jpg": {
 		"ft": 16384,
@@ -87,14 +109,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/assets/images/sections/academics/_notes/dwsync.xml": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/assets/images/sections/academics/_notes/dwsync.xml",
-		"oF": 0
-		},
 	"/assets/images/sections/academics/home-section-academic-a.jpg": {
 		"ft": 16384,
 		"iS": 188133,
@@ -112,28 +126,6 @@
 		"jF": 0,
 		"oA": 0,
 		"oAP": "/assets/images/sections/academics/home-section-academic-b.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/assets/images/sections/arts/kunz-von-der-0rosen-met-DP822160.jpg": {
-		"ft": 16384,
-		"iS": 4497047,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/images/sections/arts/kunz-von-der-0rosen-met-DP822160.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"/assets/images/sections/arts/kunz-von-der-rosen-met-DP822160-crop.jpg": {
-		"ft": 16384,
-		"iS": 390380,
-		"jF": 0,
-		"oA": 0,
-		"oAP": "/assets/images/sections/arts/kunz-von-der-rosen-met-DP822160-crop.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -161,14 +153,6 @@
 		"opt": 0,
 		"q": 100
 		},
-	"/assets/images/sections/campus-life/_notes/dwsync.xml": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
-		"oA": 0,
-		"oAP": "/assets/images/sections/campus-life/_notes/dwsync.xml",
-		"oF": 0
-		},
 	"/assets/images/sections/general/home-section-pattern-vc-white.png": {
 		"ft": 32768,
 		"iS": 6622,
@@ -184,40 +168,48 @@
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"ec": 1,
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/assets/css/_config.css",
 		"oF": 0,
 		"oS": 0,
-		"uL": 1
+		"sct": 1
 		},
 	"/assets/sass/_mixins.scss": {
 		"aP": 0,
 		"bl": 0,
 		"dP": 10,
-		"dS": 0,
+		"ec": 1,
 		"ft": 4,
 		"ma": 0,
 		"oA": 1,
 		"oAP": "/assets/css/_mixins.css",
 		"oF": 0,
 		"oS": 0,
-		"uL": 1
+		"sct": 1
 		},
 	"/assets/sass/local-group.scss": {
-		"aP": 0,
-		"bl": 0,
+		"aP": 1,
+		"bl": 1,
 		"dP": 10,
-		"dS": 0,
+		"ec": 0,
 		"ft": 4,
 		"ma": 0,
 		"oA": 0,
 		"oAP": "/assets/css/local-group.css",
 		"oF": 0,
 		"oS": 3,
-		"uL": 1
+		"sct": 1
+		},
+	"/design-files/global-footer-bg.psd": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/design-files/global-footer-bg.psd",
+		"oF": 0
 		}
 	},
 "hooks": [
@@ -769,6 +761,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"default-case-last": {
+			"active": 0,
+			"optionString": ""
+			},
 		"default-param-last": {
 			"active": 0,
 			"optionString": ""
@@ -824,6 +820,10 @@
 		"global-require": {
 			"active": 0,
 			"optionString": ""
+			},
+		"grouped-accessor-pairs": {
+			"active": 0,
+			"optionString": "'anyOrder'"
 			},
 		"guard-for-in": {
 			"active": 0,
@@ -1001,6 +1001,10 @@
 			"active": 1,
 			"optionString": "{'checkLoops': true}"
 			},
+		"no-constructor-return": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-continue": {
 			"active": 0,
 			"optionString": ""
@@ -1026,6 +1030,10 @@
 			"optionString": ""
 			},
 		"no-dupe-class-members": {
+			"active": 1,
+			"optionString": ""
+			},
+		"no-dupe-else-if": {
 			"active": 1,
 			"optionString": ""
 			},
@@ -1169,6 +1177,10 @@
 			"active": 0,
 			"optionString": ""
 			},
+		"no-loss-of-precision": {
+			"active": 0,
+			"optionString": ""
+			},
 		"no-magic-numbers": {
 			"active": 0,
 			"optionString": "{'ignore': [], 'ignoreArrayIndexes': true, 'enforceConst': false, 'detectObjects': false}"
@@ -1285,6 +1297,10 @@
 			"active": 1,
 			"optionString": ""
 			},
+		"no-restricted-exports": {
+			"active": 0,
+			"optionString": "{'restrictedNamedExports': []}"
+			},
 		"no-restricted-globals": {
 			"active": 0,
 			"optionString": "'event', 'fdescribe'"
@@ -1327,6 +1343,10 @@
 			},
 		"no-sequences": {
 			"active": 0,
+			"optionString": ""
+			},
+		"no-setter-return": {
+			"active": 1,
 			"optionString": ""
 			},
 		"no-shadow": {
@@ -1424,6 +1444,10 @@
 		"no-use-before-define": {
 			"active": 0,
 			"optionString": "{'functions': true, 'classes': true, 'variables': true}"
+			},
+		"no-useless-backreference": {
+			"active": 0,
+			"optionString": ""
 			},
 		"no-useless-call": {
 			"active": 0,
@@ -1532,6 +1556,10 @@
 		"prefer-destructuring": {
 			"active": 0,
 			"optionString": "{'array': true, 'object': true}, {'enforceForRenamedProperties': false}"
+			},
+		"prefer-exponentiation-operator": {
+			"active": 0,
+			"optionString": ""
 			},
 		"prefer-named-capture-group": {
 			"active": 0,
@@ -2229,13 +2257,13 @@
 		"autoOutputPathReplace1": "sass",
 		"autoOutputPathReplace2": "css",
 		"autoOutputPathStyle": 2,
+		"compilerType": 1,
 		"createSourceMap": 0,
-		"debugStyle": 0,
 		"decimalPrecision": 10,
+		"emitCharset": 1,
 		"outputStyle": 0,
 		"shouldRunAutoprefixer": 0,
-		"shouldRunBless": 0,
-		"useLibsass": 1
+		"shouldRunBless": 0
 		},
 	"languageDefaultsSLIM": {
 		"autoOutputAction": 0,
