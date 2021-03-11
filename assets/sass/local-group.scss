@@ -1,11 +1,50 @@
-.Row .Row__title{
-	font-family:"acumin-pro-extra-condensed", "Arial Narrow", "Helvetica Condensed";
-	font-size:3em !important;
-	text-transform:uppercase;
-	letter-spacing:.03em;
-	font-weight:200 !important;
-	text-align:center
+/* TYPOGRAPHY */
+
+$sans-serif: "Source Sans Variable", sans-serif;
+$serif: freight-big-pro, serif;
+$fontWeightLight: 300;
+$fontWeightRegular: 400;
+$fontWeightMedium: 600;
+$fontWeightBold: 600;
+
+/* LAYOUT */
+
+$tiny: 37.25em; /* 400px divided by 16px */
+$small: 56.25em; /* 600px divided by 16px */
+$medium: 56.25em; /* 800px divided by 16px */
+$large: 62.5em; /* 1000px divided by 16px */
+$xlarge: 143.75em;
+
+/* COLOR */
+
+$burgundy-1: #951829;
+$burgundy-2: #641A2B;
+$burgundy-bright: #ED1C24;
+$gray-border: #c1c1c1;
+$gray-light: #f0eeeb;
+$gray-basic: #63666A;
+$gray-dark: #444;
+
+$linkColor: #951829;
+$linkColorHoverFocus: #d7cfcc;
+$linkColorVisited: #63666A;
+$linkColorActive: #ED1C24;
+$linkBorderColor: #951829;
+
+/* End config variables */
+
+/* extend */
+.title-gradient {
+    color: $burgundy-2;
+    text-transform: none;
+    background: linear-gradient(135deg, $burgundy-2 0%, $burgundy-bright 70%);
+    -webkit-background-clip: text;
+    color: transparent;
 }
+
+.u-lContent {
+}
+
 .Block{
 	background-color:transparent;
 	background-position:center center;
@@ -92,7 +131,7 @@
     }
     .galleria-info-title{
 	    display:block;
-	    letter-spacing:.05em;
+	    /*letter-spacing:.05em; */
     }
     .Module--fourthWidth {
         margin-bottom:2em;
@@ -205,10 +244,10 @@
 	text-align:right
 }
 .BlockButton a{
-	font:normal 200 1.5em/1 "acumin-pro-extra-condensed","Arial Narrow","Helvetica Condensed";
+	font:normal $fontWeightRegular 1.5em/1 $sans-serif;
 	text-transform:uppercase;
-	letter-spacing:.03em;
-	background-color:#882344;
+	/* letter-spacing:.03em; */
+	background-color:$burgundy-1;
 	border-bottom:0;
 	padding:0 .25em .19em;
 	position:relative;
@@ -216,7 +255,7 @@
 	color:#fff
 }
 .BlockButton a:visited{
-	background-color:#882344;
+	background-color:$burgundy-1;
 	color:#fff
 }
 .BlockButton a:hover,.BlockButton a:focus{
@@ -236,9 +275,6 @@
 	position:absolute;
 	top:0;
 	width:100%
-}
-.Facts .Module__title{
-	text-transform:uppercase
 }
 .Module__fullWidthHolidayBreak{
 	background:transparent url(/assets/images/home-section-holiday-bg.jpg) no-repeat;
@@ -265,16 +301,18 @@
 .Galleria .Module{
 	padding:0
 }
-.galleria-info-description,.galleria-counter,.galleria-link{
-	font:normal 200 0.9em/1.4 "acumin-pro","Arial","Helvetica"
+.galleria-info-description,
+.galleria-counter,
+.galleria-link{
+	font: $fontWeightRegular .9em/1.2 $sans-serif;
 }
 .galleria-info-description{
-	display:inline
+	display:inline;
 }
 .galleria-info-title{
-	font:normal 200 1.5em/1 "acumin-pro-extra-condensed","Arial Narrow","Helvetica Condensed";
-	text-transform:uppercase;
-	letter-spacing:.03em
+	font: $fontWeightBold 1.3em/1 $serif;
+	/* text-transform:none;
+	letter-spacing:.03em  */
 }
 .galleria-info-title .alumName{
 	margin-left:.25em
@@ -289,7 +327,7 @@
 		z-index:1
 	}
 	.galleria-container{
-		overflow:visible
+		overflow:visible;
 	}
 	.galleria--content{
 		margin:0;
@@ -356,7 +394,7 @@
 	.galleria-info-title .alumName{
 		display:block;
 		font-size:40%;
-		letter-spacing:.1em;
+		/* letter-spacing:.1em; */
 		margin:0
 	}
 	.galleria-desc-container{
@@ -448,27 +486,29 @@
 .Module__title a:hover,.Module__title a:focus{
 	text-decoration:underline
 }
-.News .u-ArticleListItem__title{
-	font:200 1.1rem / 1 "acumin-pro","Arial","Helvetica";
-}
-.News .u-ArticleListItem__link:link{
-	text-decoration:none
-}
-.News .Module__title:after{
-	content:"\2023";
-	margin-left:.25em
-}
-.News .straight-from-the-students{
-	display:block;
-	font-size:1.5em;
-	line-height:1;
-	color:#882344;
-	font-weight:600;
-	font-family:"acumin-pro-extra-condensed","Arial Narrow","Helvetica Condensed"
+.News {
+    .u-ArticleListItem__title {
+	    font:$fontWeightRegular .9em/1.1 $sans-serif;
+    }
+    .u-ArticleListItem__link:link{
+	    text-decoration:none
+    }
+    .straight-from-the-students{
+        display:block;
+        font-size:1.5em;
+        line-height:1;
+        color:$burgundy-1;
+        font-weight: $fontWeightBold;
+        font-family:inherit;
+    }
 }
 @media screen{
     .RowContainer.News {
         padding: .5em 0;
+    }
+    .RowContainer.News,
+    .RowContainer.Galleria {
+        margin-bottom: 3em;
     }
 	.News .Row{
 		max-width:none;
@@ -659,13 +699,8 @@
 .u-ArticleGroup--newsMediaTicker>.Module__title{
 	margin-bottom:.25em
 }
-.u-ArticleGroup--newsMediaTicker>.Module__title:after{
-	content:"\2023";
-	margin-left:.25em;
-	font-size:.5em
-}
 .u-ArticleGroup--newsMediaTicker .Module__list .Module__title{
-	font-family:"acumin-pro","Arial","Helvetica";
+	font-family: $serif;
 	font-size:100%;
 	letter-spacing:0;
 	text-align:left;
@@ -729,29 +764,52 @@
     background-color: #D0D0CE;
     color: #63666A;
 }
-.News .Module__link,
-.VassarEverywhere .Module__link,
-.Events .Module__link {
-	text-decoration:none !important
-}
-.News .Module__title,
-.VassarEverywhere .Module__title,
-.Events .Module__title {
+
+.Row .Row__title {
+	font-family: $serif !important;
+	font-size:3em !important;
+	text-transform: none !important;
+	letter-spacing: 0 !important;
+	font-weight:$fontWeightBold !important;
 	text-align:center;
-	display:block
 }
-.News .Module__title a:link,
-.VassarEverywhere .Module__title a:link,
-.Events .Module__title a:link {
-	text-decoration:none;
-	font-family:"acumin-pro-extra-condensed", "Arial Narrow", "Helvetica Condensed";
-	font-size:3rem;
-	font-weight:200;
-	letter-spacing:.03em
+.VassarEverywhere,
+.News {
+    .Module__title {
+        font-size: 3em;
+        border: none;
+        padding: .75em 0 .15em;
+        font-family: $serif;
+        font-weight: $fontWeightBold;
+        a, a:visited {
+            @extend .title-gradient;
+	        text-decoration:none !important;
+            &:after {
+                content: "\2023";
+                margin-left: .25em;
+                font-size: .5em;
+            }
+        }
+        a:hover,
+        a:focus {
+            color: $linkColorHoverFocus;
+            text-transform: none;
+            background: linear-gradient(135deg, $linkColorHoverFocus 0%, $linkColorHoverFocus 70%);
+            -webkit-background-clip: text;
+            color: transparent;
+        }
+    }
 }
-.News .Module__title:after,
-.VassarEverywhere .Module__title:after,
-.Events .Module__title:after {
-	font-family:"acumin-pro-extra-condensed", "Arial Narrow", "Helvetica Condensed";
-	font-size:1.4rem
+.Facts,
+.bgAthletics,
+.AdmissionsAndFinancialAid {
+    .Row__title {
+        font-size: 3em;
+        border: none;
+        padding: .75em 0 .15em;
+        font-family: $serif;
+        font-weight: $fontWeightBold;
+        @extend .title-gradient;
+        text-decoration:none !important;
+    }
 }

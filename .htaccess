@@ -1,0 +1,73 @@
+
+<IfModule mod_rewrite.c>    
+    # Redirect homepage
+    RewriteCond %{REQUEST_URI} ^/$
+    RewriteRule ^ home/ [L]
+</IfModule>
+
+# If it's a single page that isn't index.html, put it here
+
+Redirect 301 /bridge /news/announcements/2018-2019/190427-thinking-about-college.html
+Redirect 301 /sitelist.html http://info.vassar.edu/resources/sites/
+Redirect 301 /snow.html http://info.vassar.edu/news/alerts/
+Redirect 301 /_ticker/rss.xml http://info.vassar.edu/rss/ticker.xml
+Redirect 301 /_ticker/hp-emergency.xml http://info.vassar.edu/rss/hp-emergency.xml
+Redirect 301 /information/article130.html https://security.vassar.edu/statistics/sexassault.html
+Redirect 301 /about/trustees.html    /academics/trustees/
+Redirect 301 /academic/departments.html    /academics/departments/
+Redirect 301 /emergency/response.html	http://info.vassar.edu/resources/emergency/ 
+Redirect 301 /headlines/index.html	http://info.vassar.edu/news/ 
+Redirect 301 /offices/alphabetical.html	http://info.vassar.edu/resources/offices/ 
+#Redirect 301 /search/index.html	http://info.vassar.edu/search.html 
+Redirect 301 /trustees/bios/fairstein.html https://president.vassar.edu/community/2019/190604-announcement-trustees-resignation.html
+Redirect 301 /thinkingaboutcollege https://www.vassar.edu/news/events/2020/thinking-about-college.html
+
+# If it's a folder or shorturl, put it here
+# Redirects that used to be rewriterules
+
+RedirectMatch 301 ^/27Brew2(\/)?$ https://alums.vassar.edu/shorturls/brew2.html 
+RedirectMatch 301 ^/27brew2(\/)?$ https://alums.vassar.edu/shorturls/brew2.html 
+RedirectMatch 301 ^/2018gift(\/)?$ https://alums.vassar.edu/donate/studentgift.html
+RedirectMatch 301 ^/academic/calendar(\/)?$ https://registrar.vassar.edu/calendar/ 
+RedirectMatch 301 ^/academics/calendar(\/)?$ https://registrar.vassar.edu/calendar/ 
+RedirectMatch 301 ^/afworkspace(\/)?$ https://alums.vassar.edu/shorturls/afworkspace.html 
+RedirectMatch 301 ^/alerts(\/)?$ http://info.vassar.edu/news/alerts/ 
+RedirectMatch 301 ^/alumnae-and-alumni(\/)?$ https://alums.vassar.edu/ 
+RedirectMatch 301 ^/brewersfund(\/)?$ http://alums.vassar.edu/shorturls/brewersfund.html 
+RedirectMatch 301 ^/connect(\/)?$ http://info.vassar.edu/about/connect/ 
+RedirectMatch 301 ^/campaigngift(\/)?$ https://alums.vassar.edu/donate/campaigngift.html 
+RedirectMatch 301 ^/donorsocieties(\/)?$ https://alums.vassar.edu/shorturls/donorsocieties.html 
+RedirectMatch 301 ^/deer-management(\/)?$  https://farm.vassar.edu/activities/management/deer/
+RedirectMatch 301 ^/emergency(\/)?$  https://security.vassar.edu/resources/emergency-resources/
+RedirectMatch 301 ^/ueigift(\/)?$  https://alums.vassar.edu/shorturls//ueigift.html
+RedirectMatch 301 ^/foundersgivingday/toolkit(\/)?$  https://connect.vassar.edu/s/1654/2/16/interior-ai.aspx?sid=1654&gid=2&pgid=3815
+RedirectMatch 301 ^/foundersgivingday(\/)?$ https://alums.vassar.edu/shorturls/foundersday.html 
+RedirectMatch 301 ^/foundersgivingday.(\/)?$ https://alums.vassar.edu/shorturls/foundersday.html 
+RedirectMatch 301 ^/givingtuesday(\/)?$ https://alums.vassar.edu/shorturls/givingtuesday.html 
+RedirectMatch 301 ^/heart(\/)?$ https://alums.vassar.edu/shorturls/heart.html 
+RedirectMatch 301 ^/itcmoodle(\/)?$ https://goo.gl/wopIKr 
+RedirectMatch 301 ^/jobs(\/)?$ http://humanresources.vassar.edu/jobs/ 
+RedirectMatch 301 ^/jobx(\/)?$ https://vassar.studentemployment.ngwebsolutions.com/
+RedirectMatch 301 ^/lifelonglearning(\/)?$ https://lifelonglearning.vassar.edu/ 
+RedirectMatch 301 ^/matchinggifts(\/)?$   https://alums.vassar.edu/shorturls/matchinggifts.html 
+RedirectMatch 301 ^/mindthegap(\/)?$ https://alums.vassar.edu/shorturls/mindthegap.html 
+# RedirectMatch 301 ^/offices(\/)?$ http://info.vassar.edu/resources/offices/ 
+RedirectMatch 301 ^/parentdirectory(\/)?$ https://alums.vassar.edu/shorturls/parentdirectory.html 
+RedirectMatch 301 ^/paymattback(\/)?$ https://alums.vassar.edu/shorturls/paymattback.html 
+RedirectMatch 301 ^/reunion(\/)?$ http://alums.vassar.edu/shorturls/reunion.html 
+RedirectMatch 301 ^/reuniongive(\/)?$ http://alums.vassar.edu/donate/reuniongive.html 
+RedirectMatch 301 ^/revisited(\/)?$ http://alums.vassar.edu/shorturls/revisited.html 
+RedirectMatch 301 ^/seniorgift(\/)?$ http://alums.vassar.edu/donate/seniorgift.html 
+RedirectMatch 301 ^/snow(\/)?$  http://info.vassar.edu/news/alerts/ 
+#RedirectMatch 301 ^/studentgift(\/)?$ https://alums.vassar.edu/donate/studentgift.html 
+RedirectMatch 301 ^/studentofconcern(\/)?$ https://publicdocs.maxient.com/incidentreport.php?VassarCollege 
+RedirectMatch 301 ^/students(\/)?$ /campuslife/ 
+RedirectMatch 301 ^/triennial(\/)?$ https://alums.vassar.edu/shorturls/triennial.html 
+RedirectMatch 301 ^/vassarfund(\/)?$ https://alums.vassar.edu/shorturls/vassarfund.html 
+RedirectMatch 301 ^/visitors(\/)?$ /visit/
+RedirectMatch 301 ^/vcfeb28(\/)?$   https://alums.vassar.edu/news/features/vcfeb28.html 
+RedirectMatch 301 ^/vcreport17(\/)?$ https://alums.vassar.edu/shorturls/vcreport.html 
+RedirectMatch 301 ^/voter-info(\/)?$ http://info.vassar.edu/news/2012-2013/121106-vote.html 
+RedirectMatch 301 ^/vrdt(\/)?$ https://pages.vassar.edu/vrdt/ 
+RedirectMatch 301 ^/welcome(\/)?$ /visit/ 
+RedirectMatch 301 ^/wnsmoodle(\/)?$ https://goo.gl/otnjd7 
