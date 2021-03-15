@@ -65,6 +65,14 @@
       "oO" : 0,
       "oS" : 1
     },
+    "\/assets\/css\/_notes\/dwsync.xml" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/css\/_notes\/dwsync.xml",
+      "oF" : 0
+    },
     "\/assets\/css\/local-group.css" : {
       "aP" : 1,
       "bl" : 0,
@@ -94,6 +102,74 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/images\/galleria.zip" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/images\/galleria.zip",
+      "oF" : 0
+    },
+    "\/assets\/images\/galleria\/_notes\/dwsync.xml" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/images\/galleria\/_notes\/dwsync.xml",
+      "oF" : 0
+    },
+    "\/assets\/images\/galleria\/classic-map.png" : {
+      "ft" : 32768,
+      "iS" : 1089,
+      "oA" : 0,
+      "oAP" : "\/assets\/images\/galleria\/classic-map.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/images\/galleria\/galleria-arrows-left.png" : {
+      "ft" : 32768,
+      "iS" : 1505,
+      "oA" : 0,
+      "oAP" : "\/assets\/images\/galleria\/galleria-arrows-left.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/images\/galleria\/galleria-arrows-right.png" : {
+      "ft" : 32768,
+      "iS" : 1518,
+      "oA" : 0,
+      "oAP" : "\/assets\/images\/galleria\/galleria-arrows-right.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/assets\/images\/galleria\/galleria-arrows.png" : {
+      "ft" : 32768,
+      "iS" : 3581,
+      "oA" : 0,
+      "oAP" : "\/assets\/images\/galleria\/galleria-arrows.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
       "rq" : 75

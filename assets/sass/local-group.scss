@@ -41,10 +41,6 @@ $linkBorderColor: #951829;
     -webkit-background-clip: text;
     color: transparent;
 }
-
-.u-lContent {
-}
-
 .Block{
 	background-color:transparent;
 	background-position:center center;
@@ -53,13 +49,13 @@ $linkBorderColor: #951829;
 	color:#fff
 }
 @media screen{
-	.Block{
+	.Block {
 		align-items:flex-end;
 		display:flex;
 		justify-content:flex-end
-	}
-	.Block .Row{
-		padding-bottom:2em
+        .Row{
+		    padding-bottom:2em
+        }
 	}
 }
 @media screen and (min-width: 56.25em){
@@ -79,11 +75,11 @@ $linkBorderColor: #951829;
 	color:#fff
 }
 .Block a:visited{
-	border-bottom-color:#c1b5b0;
-	color:#c1b5b0
+	border-bottom-color:$gray-border;
+	color:$gray-border
 }
 .bgArts{
-	background-image:url(/assets/images/sections/arts/kunz-von-der-rosen-met-DP822160.jpg);
+	background-image:url(../images/sections/arts/kunz-von-der-rosen-met-DP822160.jpg);
 	height:29em
 }
 @media (min-width: 56.25em){
@@ -92,7 +88,7 @@ $linkBorderColor: #951829;
 	}
 }
 .bgCampusLife{
-	background-image:url(/assets/images/sections/campus-life/110619_160over90_Vassar_5260.jpg);
+	background-image:url(../images/sections/campus-life/110619_160over90_Vassar_5260.jpg);
 	height:29em
 }
 @media (min-width: 56.25em){
@@ -101,22 +97,30 @@ $linkBorderColor: #951829;
 	}
 }
 .bgAcademicsFaculty{
-	background-image:url(/assets/images/sections/academics/home-section-academic-a.jpg);
+	background-image:url(../images/sections/academics/home-section-academic-a.jpg);
 	height:29em
 }
 @media (min-width: 56.25em){
-	.bgAcademicsFaculty .Row{
-		margin-right:0
-	}
+    .bgCampusLife.bg,
+    .bgAcademicsFaculty.bg,
+    .bgArts.bg {
+        padding: 2em !important;
+        .Row {
+		    margin: auto auto 0 0;
+	    }
+    }
 }
-.AdmissionsAndFinancialAid{
-	text-align:center
+.AdmissionsAndFinancialAid {
+	text-align:center;
+    .Row {
+        max-width: 55rem;
+    }
 }
 .AdmissionsAndFinancialAid img{
 	margin-bottom:.5em
 }
 .bgAthletics {
-	background-image: url(/assets/images/sections/athletics/Vassar_QuadGrid-grey.png);
+	background-image: url(../images/sections/athletics/Vassar_QuadGrid-grey.png);
 	background-size:9em;
     background-repeat: repeat;
 	margin-top:0 !important;
@@ -244,12 +248,11 @@ $linkBorderColor: #951829;
 	text-align:right
 }
 .BlockButton a{
-	font:normal $fontWeightRegular 1.5em/1 $sans-serif;
+	font:normal $fontWeightBold 1em/1 $sans-serif;
 	text-transform:uppercase;
-	/* letter-spacing:.03em; */
 	background-color:$burgundy-1;
 	border-bottom:0;
-	padding:0 .25em .19em;
+	padding:.25em .5em;
 	position:relative;
 	text-decoration:none !important;
 	color:#fff
@@ -259,12 +262,12 @@ $linkBorderColor: #951829;
 	color:#fff
 }
 .BlockButton a:hover,.BlockButton a:focus{
-	background-color:#c1b5b0;
+	background-color:$gray-border;
 	border-bottom:0;
 	color:#000
 }
 .BlockButton a:active{
-	background-color:#746661;
+	background-color:$gray-basic;
 	color:#fff
 }
 .BlockButton a:after{
@@ -277,7 +280,7 @@ $linkBorderColor: #951829;
 	width:100%
 }
 .Module__fullWidthHolidayBreak{
-	background:transparent url(/assets/images/home-section-holiday-bg.jpg) no-repeat;
+	background:transparent url(../images/home-section-holiday-bg.jpg) no-repeat;
 	background-size:cover;
 	border-bottom:0.5em solid #fff;
 	color:#fff
@@ -310,9 +313,7 @@ $linkBorderColor: #951829;
 	display:inline;
 }
 .galleria-info-title{
-	font: $fontWeightBold 1.3em/1 $serif;
-	/* text-transform:none;
-	letter-spacing:.03em  */
+	font: $fontWeightRegular 1.3em/1 $serif;
 }
 .galleria-info-title .alumName{
 	margin-left:.25em
@@ -431,12 +432,12 @@ $linkBorderColor: #951829;
     text-decoration-line: none;
 }
 .galleria-info-description.u-Figure__caption--description a:hover,.galleria-info-description.u-Figure__caption--description a:focus{
-	color:#c1b5b0;
-	border-bottom-color:#c1b5b0
+	color:$gray-border;
+	border-bottom-color:$gray-border
 }
 .galleria-info-description.u-Figure__caption--description a:active{
-	color:#746661;
-	border-bottom-color:#746661
+	color:$gray-basic;
+	border-bottom-color:$gray-basic
 }
 .galleria-image-nav-left,.galleria-image-nav-right{
 	width:8%;
@@ -444,11 +445,11 @@ $linkBorderColor: #951829;
 	opacity:1
 }
 .galleria-image-nav-right{
-	background-image:url(/assets/images/galleria/galleria-arrows-right.png);
+	background-image:url(../images/galleria/galleria-arrows-right.png);
 	background-size:25px
 }
 .galleria-image-nav-left{
-	background-image:url(/assets/images/galleria/galleria-arrows-left.png);
+	background-image:url(../images/galleria/galleria-arrows-left.png);
 	background-size:25px
 }
 @media screen and (min-width: 56.25em){
@@ -465,30 +466,11 @@ $linkBorderColor: #951829;
 .Module__title{
 	border-bottom:0;
 	margin-bottom:0;
-	text-align:center;
-	text-transform:uppercase
-}
-.Module__title a,.Module__title a:visited{
-	color:#746661
-}
-.Module__title a:visited,.Module__title a:visited:visited{
-	color:#746661
-}
-.Module__title a:focus,.Module__title a:visited:focus{
-	color:#c1b5b0
-}
-.Module__title a:hover,.Module__title a:visited:hover{
-	color:#c1b5b0
-}
-.Module__title a:active,.Module__title a:visited:active{
-	color:#746661
-}
-.Module__title a:hover,.Module__title a:focus{
-	text-decoration:underline
 }
 .News {
     .u-ArticleListItem__title {
-	    font:$fontWeightRegular .9em/1.1 $sans-serif;
+	    font:$fontWeightRegular .9em/1.3 $sans-serif;
+        display: block;
     }
     .u-ArticleListItem__link:link{
 	    text-decoration:none
@@ -507,8 +489,18 @@ $linkBorderColor: #951829;
         padding: .5em 0;
     }
     .RowContainer.News,
-    .RowContainer.Galleria {
-        margin-bottom: 3em;
+    .RowContainer.Galleria,
+    .RowContainer.bgAcademicsFaculty {
+        margin-bottom: 1em;
+    }
+    .RowContainer.Facts {
+        margin-bottom: 2em;
+        .Module__title {
+            font-family: $sans-serif;
+            font-size: .8em !important;
+            letter-spacing: 0;
+            font-weight: $fontWeightBold;
+        }
     }
 	.News .Row{
 		max-width:none;
@@ -537,19 +529,19 @@ $linkBorderColor: #951829;
 	}
 }
 .News .u-ArticleGroup--newsSlider .Module__titleLink{
-	border-bottom:0
+	border-bottom:0;
 }
 .News .u-ArticleListItem__title{
-	color:#746661
+	color:$gray-basic
 }
 .News .u-ArticleListItem__title:visited{
-	color:#746661
+	color:$gray-basic
 }
 .News .u-ArticleListItem__title:hover{
-	color:#746661
+	color:$gray-basic
 }
 .News .u-ArticleListItem__title:active{
-	color:#c1b5b0 #c1b5b0
+	color:$gray-border $gray-border
 }
 .News .u-ArticleListItem__thumbnail:after{
 	border:0.075em solid rgba(117,103,97,0.5);
@@ -628,46 +620,47 @@ $linkBorderColor: #951829;
 		opacity:0
 	}
 }
-.items__nav{
-	margin:0 0 3em 0;
-	padding:0;
-	text-align:center
+.items__nav {
+    margin:0 0 3em 0;
+    padding:0;
+    text-align:center;
+    .items__tab {
+        list-style:none;
+        display:inline;
+        margin:0 0.5em
+    }
+    .items__tab.active .items__tabLink {
+        background: $linkColorActive;
+    }
+    .items__tabLink {
+        background:$gray-light;
+        border-radius:50%;
+        width:1.25em;
+        height:1.25em;
+        display:inline-block;
+        overflow:hidden;
+        text-indent:-900px;
+        color:transparent;
+    }
+    a.items__tabLink {
+        border-bottom: none;
+    }
+    .items__tabLink:hover,
+    .items__tabLink:focus {
+        background:$linkColorHoverFocus;
+    }
+    .items__tabLink:active {
+        background:$linkColorActive;
+    }
 }
-.items__nav .items__tab{
-	display:inline;
-	list-style:none;
-	margin:0 0.5em
-}
-.items__nav .items__tab.active .items__tabLink{
-	background:#746661
-}
-.items__nav .items__tabLink{
-	background:#9d9390;
-	border-radius:50%;
-	color:transparent;
-	display:inline-block;
-	height:1.25em;
-	overflow:hidden;
-	text-indent:-900px;
-	width:1.25em
-}
-.items__nav .items__tabLink:hover{
-	background:#c1b5b0
-}
-.items__nav .items__tabLink:focus{
-	background:#9d9390
-}
-.items__nav .items__tabLink:active{
-	background:#746661
-}
-.items__nav a.items__tabLink{
+
+.u-ArticleGroup--newsMediaTicker .Module__link:link,
+.u-ArticleGroup--newsMediaTicker .Module__titleLink{
 	border-bottom:none
 }
-.u-ArticleGroup--newsMediaTicker .Module__list .Module__title{
-	font-size:.85em !important
-}
-.u-ArticleGroup--newsMediaTicker .Module__link:link,.u-ArticleGroup--newsMediaTicker .Module__titleLink{
-	border-bottom:none
+.u-ArticleGroup--newsMediaTicker .Module__titleLink {
+	display:block;
+    line-height: 1.2;
 }
 .u-ArticleGroup--newsMediaTicker .Module__listItem{
 	border-bottom:none;
@@ -679,33 +672,34 @@ $linkBorderColor: #951829;
 	text-transform:none
 }
 .u-ArticleGroup--newsMediaTicker .Module__listItem a{
-	text-transform:none
+	text-transform:none;
+    text-decoration: none;
 }
 .u-ArticleGroup--newsMediaTicker .Module__listItem .Module__link{
-	color:#746661
+	color:$gray-basic
 }
 .u-ArticleGroup--newsMediaTicker .Module__listItem .Module__link:visited{
-	color:#746661
+	color:$gray-basic
 }
 .u-ArticleGroup--newsMediaTicker .Module__listItem .Module__link:focus{
-	color:#c1b5b0
+	color:$gray-border
 }
 .u-ArticleGroup--newsMediaTicker .Module__listItem .Module__link:hover{
-	color:#c1b5b0
+	color:$gray-border
 }
 .u-ArticleGroup--newsMediaTicker .Module__listItem .Module__link:active{
-	color:#746661
+	color:$gray-basic
 }
 .u-ArticleGroup--newsMediaTicker>.Module__title{
-	margin-bottom:.25em
+	margin-bottom: 0;
 }
 .u-ArticleGroup--newsMediaTicker .Module__list .Module__title{
-	font-family: $serif;
-	font-size:100%;
+	font-size:.9em !important;
+	font-family: $sans-serif;
 	letter-spacing:0;
 	text-align:left;
 	text-transform:none;
-	font-weight:300
+	font-weight:$fontWeightRegular;
 }
 .VassarEverywhere{
 	padding-bottom:0;
@@ -732,42 +726,50 @@ $linkBorderColor: #951829;
 .u-lContent {
     font-size: .95em;
     a:focus,a:hover,a:visited:focus,a:visited:hover {
-        background-color: #D0D0CE;
-        color: #63666A;
+        background-color: $gray-border;
+        color: $gray-dark;
     }
     .Dark a:focus,
     .Dark a:hover,
-    .Dark a:visited,
     .Dark a:visited:focus,
     .Dark a:visited:hover,
     .Dark--scrim a:focus,
     .Dark--scrim a:hover,
-    .Dark--scrim a:visited,
     .Dark--scrim a:visited:focus,
     .Dark--scrim a:visited:hover,
     .Dark--bgScrim a:focus,
     .Dark--bgScrim a:hover,
-    .Dark--bgScrim a:visited,
     .Dark--bgScrim a:visited:focus,
     .Dark--bgScrim a:visited:hover,
     .galleria-desc-container a:focus,
     .galleria-desc-container a:hover,
-    .galleria-desc-container a:visited,
     .galleria-desc-container a:visited:focus,
     .galleria-desc-container a:visited:hover {
-        color:#a2a6ad;
-        text-decoration-color:#a2a6ad;
-        background-color:#D0D0CE;
+        color:$gray-dark;
+        text-decoration-color:$gray-dark;
+        background-color:$gray-border;
+    }
+    .Dark a:visited,
+    .Dark--scrim a:visited,
+    .Dark--bgScrim a:visited,
+    .galleria-desc-container a:visited {
+        color:#808080;
+        text-decoration-color:#808080;
     }
 }
-.u-lFooter a:hover,.u-lFooter a:focus {
-    background-color: #D0D0CE;
-    color: #63666A;
-}
 
+.u-lFooter a:hover,.u-lFooter a:focus {
+    background-color: $gray-border;
+    color: $gray-basic;
+}
+.u-VCard--site .org {
+    font: $fontWeightBold 2em/1.1 $serif;
+    text-transform: capitalize;
+    letter-spacing: 0;
+}
 .Row .Row__title {
 	font-family: $serif !important;
-	font-size:3em !important;
+	font-size:2.5em !important;
 	text-transform: none !important;
 	letter-spacing: 0 !important;
 	font-weight:$fontWeightBold !important;
@@ -812,4 +814,11 @@ $linkBorderColor: #951829;
         @extend .title-gradient;
         text-decoration:none !important;
     }
+}
+h3.u-ExtendedFooter__listHeader {
+    color: #fff;
+    margin-top: 0;
+    font: normal $fontWeightBold 1.5em/1.1 $serif;
+    letter-spacing: normal;
+    text-transform: none;
 }
