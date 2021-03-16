@@ -74,33 +74,30 @@ $linkBorderColor: #951829;
 	border-bottom-color:#fff;
 	color:#fff
 }
-.Block a:visited{
+.Block a:visited {
 	border-bottom-color:$gray-border;
 	color:$gray-border
 }
-.bgArts{
+.bgArts {
 	background-image:url(../images/sections/arts/kunz-von-der-rosen-met-DP822160.jpg);
-	height:29em
+	min-height:29em
 }
-@media (min-width: 56.25em){
+.bgCampusLife {
+	background-image:url(../images/sections/campus-life/110619_160over90_Vassar_5260.jpg);
+	min-height:29em
+}
+.bgAcademicsFaculty {
+	background-image:url(../images/sections/academics/home-section-academic-a.jpg);
+	min-height:29em;
+}
+@media (min-width: 56.25em) {
+	.bgCampusLife .Row{
+		margin-right:0
+	}
 	.bgArts .Row{
 		margin-left:0
 	}
 }
-.bgCampusLife{
-	background-image:url(../images/sections/campus-life/110619_160over90_Vassar_5260.jpg);
-	height:29em
-}
-@media (min-width: 56.25em){
-	.bgCampusLife .Row{
-		margin-right:0
-	}
-}
-.bgAcademicsFaculty{
-	background-image:url(../images/sections/academics/home-section-academic-a.jpg);
-	height:29em
-}
-@media (min-width: 56.25em){
     .bgCampusLife.bg,
     .bgAcademicsFaculty.bg,
     .bgArts.bg {
@@ -109,6 +106,8 @@ $linkBorderColor: #951829;
 		    margin: auto auto 0 0;
 	    }
     }
+@media (min-width: 56.25em) {
+
 }
 .AdmissionsAndFinancialAid {
 	text-align:center;
@@ -325,7 +324,7 @@ $linkBorderColor: #951829;
 }
 @media screen{
 	.galleria{
-		z-index:1
+		z-index:0;
 	}
 	.galleria-container{
 		overflow:visible;
@@ -472,7 +471,7 @@ $linkBorderColor: #951829;
 	    font:$fontWeightRegular .9em/1.3 $sans-serif;
         display: block;
     }
-    .u-ArticleListItem__link:link{
+    .u-ArticleListItem__link {
 	    text-decoration:none
     }
     .straight-from-the-students{
@@ -513,7 +512,6 @@ $linkBorderColor: #951829;
 	.News .u-ArticleListItem{
 		margin:0;
         padding: 0;
-		width:12em
 	}
 	.News .u-ArticleListItem__thumbnail{
 		float: none;
@@ -528,28 +526,42 @@ $linkBorderColor: #951829;
 		margin:0
 	}
 }
-.News .u-ArticleGroup--newsSlider .Module__titleLink{
+@media screen and (min-width: 26.88em) {
+	.News .u-ArticleListItem{
+		width:12em
+	}
+}
+.News 
+.u-ArticleGroup--newsSlider .Module__titleLink{
 	border-bottom:0;
 }
-.News .u-ArticleListItem__title{
-	color:$gray-basic
-}
-.News .u-ArticleListItem__title:visited{
-	color:$gray-basic
-}
-.News .u-ArticleListItem__title:hover{
-	color:$gray-basic
-}
-.News .u-ArticleListItem__title:active{
-	color:$gray-border $gray-border
-}
-.News .u-ArticleListItem__thumbnail:after{
-	border:0.075em solid rgba(117,103,97,0.5);
-	bottom:0;
-	content:"";
-	position:absolute;
-	top:0;
-	width:100%
+.News {
+    .u-ArticleListItem__title{
+        color:$gray-basic
+    }
+    .u-ArticleListItem__title:visited{
+        color:$gray-basic
+    }
+    .u-ArticleListItem__title:hover{
+        color:$gray-basic
+    }
+    .u-ArticleListItem__title:active{
+        color:$gray-border $gray-border
+    }
+    .u-ArticleListItem__thumbnail:after{
+        border:0.075em solid rgba(117,103,97,0.5);
+        bottom:0;
+        content:"";
+        position:absolute;
+        top:0;
+        width:100%
+    }
+    .u-ArticleListItem__link {
+        &:hover,
+        &:focus {
+            background-color: $gray-light;
+        }
+    }
 }
 .js .u-ArticleGroup--newsMediaTicker>.Module__list{
 	margin-bottom:0;
