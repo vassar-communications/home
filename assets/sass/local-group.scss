@@ -89,6 +89,7 @@ $linkBorderColor: #951829;
 .bgAcademicsFaculty {
 	background-image:url(../images/sections/academics/home-section-academic-a.jpg);
 	min-height:29em;
+    
 }
 @media (min-width: 56.25em) {
 	.bgCampusLife .Row{
@@ -825,6 +826,18 @@ $linkBorderColor: #951829;
         font-weight: $fontWeightBold;
         @extend .title-gradient;
         text-decoration:none !important;
+    }
+}
+main.u-lMain {
+    .bgCampusLife,
+    .bgArts,
+    .bgAcademicsFaculty,
+    .bgAthletics,
+    .AdmissionsAndFinancialAid,
+    .Facts{    
+        .Row__title {
+            text-align: left;
+        }
     }
 }
 h3.u-ExtendedFooter__listHeader {
