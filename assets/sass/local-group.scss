@@ -9,10 +9,9 @@ $fontWeightBold: 600;
 
 /* LAYOUT */
 
-$tiny: 37.25em; /* 400px divided by 16px */
-$small: 56.25em; /* 600px divided by 16px */
-$medium: 56.25em; /* 800px divided by 16px */
-$large: 62.5em; /* 1000px divided by 16px */
+$tiny: 37.25em;
+$small: 56.25em;
+$large: 62.5em;
 $xlarge: 143.75em;
 
 /* COLOR */
@@ -33,6 +32,10 @@ $linkBorderColor: #951829;
 
 /* End config variables */
 
+body {
+    overflow-x: hidden !important;
+}
+
 /* extend */
 .title-gradient {
     color: $burgundy-2;
@@ -48,6 +51,11 @@ $linkBorderColor: #951829;
 	background-size:cover;
 	color:#fff
 }
+.Row {
+    p {
+        font-size: 1.15em;
+    }
+}
 @media screen{
 	.Block {
 		align-items:flex-end;
@@ -58,7 +66,7 @@ $linkBorderColor: #951829;
         }
 	}
 }
-@media screen and (min-width: 56.25em){
+@media screen and (min-width: $small){
 	.Block .Module{
 		flex-basis:50%
 	}
@@ -91,7 +99,7 @@ $linkBorderColor: #951829;
 	min-height:29em;
     
 }
-@media (min-width: 56.25em) {
+@media (min-width: $small) {
 	.bgCampusLife .Row{
 		margin-right:0
 	}
@@ -107,9 +115,6 @@ $linkBorderColor: #951829;
 		    margin: auto auto 0 0;
 	    }
     }
-@media (min-width: 56.25em) {
-
-}
 .AdmissionsAndFinancialAid {
 	text-align:center;
     .Row {
@@ -164,7 +169,7 @@ $linkBorderColor: #951829;
         margin: 0 auto;
     }
 }
-@media screen and (min-width: 56.25em){
+@media screen and (min-width: $small){
     .bgAthletics {
         .twitter-timeline-container {
             height:100%;
@@ -222,7 +227,7 @@ $linkBorderColor: #951829;
 	background-color:#000;
 	color:#fff
 }
-@media screen and (min-width: 56.25em){
+@media screen and (min-width: $small){
 	.bgAthletics .u-Figure figcaption{
 		background-color:#000;
 		background-color:rgba(0,0,0,0.8)
@@ -233,7 +238,7 @@ $linkBorderColor: #951829;
 	justify-content:center;
 	margin:1em 0
 }
-@media screen and (min-width: 56.25em){
+@media screen and (min-width: $small){
 	.BlockButtonContainer .BlockButton{
 		margin:1.75em 0 1em;
 		text-align:center
@@ -291,7 +296,7 @@ $linkBorderColor: #951829;
 .Module__fullWidthHolidayBreak .Module__title{
 	margin-bottom:0
 }
-@media screen and (min-width: 56.25em){
+@media screen and (min-width: $small){
 	.Module__fullWidthHolidayBreak .Module__list{
 		margin-top:2%;
 		margin-bottom:2%
@@ -306,20 +311,17 @@ $linkBorderColor: #951829;
 .galleria-info-description,
 .galleria-counter,
 .galleria-link{
-	font: $fontWeightRegular .9em/1.2 $sans-serif;
+	font: $fontWeightRegular 1.15em/1.2 $sans-serif;
 }
 .galleria-info-description{
 	display:inline;
 }
-.galleria-info-title{
-	font: $fontWeightRegular 1.3em/1 $serif;
-}
-.galleria-info-title .alumName{
-	margin-left:.25em
+.galleria-info-title {
+	font: $fontWeightRegular 2.85em/1 $serif !important;
 }
 .u-Gallery__slideAttribution {
 	display: block;
-    font-size:.9em;
+    font-size:1rem;
 	margin-top:.5em;
 }
 @media screen{
@@ -380,7 +382,7 @@ $linkBorderColor: #951829;
 		background-position:20% 50%
 	}
 }
-@media screen and (min-width: 56.25em){
+@media screen and (min-width: $small){
 	.galleria{
 		background-size:cover;
 		padding-bottom:0
@@ -388,22 +390,13 @@ $linkBorderColor: #951829;
 	.galleria-container{
 		overflow:hidden
 	}
-	.galleria-info-title{
-		font-size: 2.25em !important
-	}
-	.galleria-info-title .alumName{
-		display:block;
-		font-size:40%;
-		/* letter-spacing:.1em; */
-		margin:0
-	}
 	.galleria-desc-container{
 		display:block
 	}
 	.galleria-info{
 		bottom:2em;
 		left:3em;
-		width:33%
+		width:40%
 	}
 	.galleria-info-text{
 		position:relative
@@ -469,7 +462,7 @@ $linkBorderColor: #951829;
 }
 .News {
     .u-ArticleListItem__title {
-	    font:$fontWeightRegular .9em/1.3 $sans-serif;
+	    font:$fontWeightRegular 1.15em/1.3 $sans-serif;
         display: block;
     }
     .u-ArticleListItem__link {
@@ -497,9 +490,12 @@ $linkBorderColor: #951829;
         margin-bottom: 2em;
         .Module__title {
             font-family: $sans-serif;
-            font-size: .8em !important;
-            letter-spacing: 0;
+            font-size: 1em !important;
+            letter-spacing: normal;
             font-weight: $fontWeightBold;
+        }
+        p {
+            text-align: center;
         }
     }
 	.News .Row{
@@ -529,7 +525,7 @@ $linkBorderColor: #951829;
 }
 @media screen and (min-width: 26.88em) {
 	.News .u-ArticleListItem{
-		width:12em
+		width:15em
 	}
 }
 .News 
@@ -559,7 +555,9 @@ $linkBorderColor: #951829;
     }
     .u-ArticleListItem__link {
         &:hover,
-        &:focus {
+        &:focus,
+        &:visited:hover,
+        &:visited:focus {
             background-color: $gray-light;
         }
     }
@@ -574,23 +572,23 @@ $linkBorderColor: #951829;
 }
 @media screen and (min-width: 21.88em){
 	.js .u-ArticleGroup--newsMediaTicker>.Module__list{
-		padding:8em 0 0 0
+		padding:12em 0 0 0
 	}
 }
 @media screen and (min-width: 34.38em){
 	.js .u-ArticleGroup--newsMediaTicker>.Module__list{
-		padding:6em 0 0 0
+		padding:8em 0 0 0
 	}
 }
 @media screen and (min-width: 46.88em){
 	.js .u-ArticleGroup--newsMediaTicker>.Module__list{
-		padding:4em 0 0 0
+		padding:6.5em 0 0 0
 	}
 }
 @media screen and (min-width: 50em){
 	.js .u-ArticleGroup--newsMediaTicker>.Module__list{
 		margin:0 auto;
-		padding:4.5em 0 0 0
+		padding:6.5em 0 0 0
 	}
 }
 .js .u-ArticleGroup--newsMediaTicker>.Module__list>li{
@@ -673,7 +671,6 @@ $linkBorderColor: #951829;
 }
 .u-ArticleGroup--newsMediaTicker .Module__titleLink {
 	display:block;
-    line-height: 1.2;
 }
 .u-ArticleGroup--newsMediaTicker .Module__listItem{
 	border-bottom:none;
@@ -707,9 +704,10 @@ $linkBorderColor: #951829;
 	margin-bottom: 0;
 }
 .u-ArticleGroup--newsMediaTicker .Module__list .Module__title{
-	font-size:.9em !important;
+	font-size:1.15em !important;
 	font-family: $sans-serif;
-	letter-spacing:0;
+    line-height: 1.3;
+	letter-spacing: normal;
 	text-align:left;
 	text-transform:none;
 	font-weight:$fontWeightRegular;
@@ -780,7 +778,7 @@ $linkBorderColor: #951829;
 	font-family: $serif !important;
 	font-size:2.5em !important;
 	text-transform: none !important;
-	letter-spacing: 0 !important;
+	letter-spacing: normal!important;
 	font-weight:$fontWeightBold !important;
 	text-align:center;
 }
@@ -792,6 +790,10 @@ $linkBorderColor: #951829;
         padding: .75em 0 .15em;
         font-family: $serif;
         font-weight: $fontWeightBold;
+        line-height: 1;
+        .Module__titleLink {
+            padding-bottom: .2em;
+        }
         a, a:visited {
             @extend .title-gradient;
 	        text-decoration:none !important;
